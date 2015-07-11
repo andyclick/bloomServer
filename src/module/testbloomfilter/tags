@@ -1,0 +1,642 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BIG_CONSTANT	bloomfilter_back/murmur.cpp	21;"	d	file:
+BIG_CONSTANT	murmur.cpp	21;"	d	file:
+BITSPERWORD	bloom_filter.cpp	8;"	d	file:
+BITSPERWORD	bloomfilter_back/bloom_filter.cpp	8;"	d	file:
+BloomFilterManager	BloomFilterManager.cpp	/^    BloomFilterManager::BloomFilterManager() {$/;"	f	class:octopus::b_server::BloomFilterManager
+BloomFilterManager	BloomFilterManager.h	/^    class BloomFilterManager: public octopus::common::BaseManager {$/;"	c	namespace:octopus::b_server
+CREATE_FLAG	zooclient.cpp	21;"	d	file:
+CREATE_LEADER_FLAG	zooclient.cpp	23;"	d	file:
+DEBUG	bloomfilter_back/debug.h	2;"	d
+DEBUG	bloomfilter_back/debug.h	4;"	d
+DEBUG	debug.h	2;"	d
+DEBUG	debug.h	4;"	d
+ERROR_MALLOC_FAIL	bloom_filter.h	9;"	d
+ERROR_MALLOC_FAIL	bloomfilter_back/bloom_filter.h	9;"	d
+EXPECT_EQUAL	dbtest.cpp	17;"	d	file:
+FORCE_INLINE	bloom_filter.cpp	20;"	d	file:
+FORCE_INLINE	bloomfilter_back/bloom_filter.cpp	20;"	d	file:
+FORCE_INLINE	bloomfilter_back/murmur.cpp	12;"	d	file:
+FORCE_INLINE	murmur.cpp	12;"	d	file:
+GREEN_B	dbtest.cpp	8;"	d	file:
+GREEN_E	dbtest.cpp	9;"	d	file:
+GroupMemberShiprootPath	zooclient.cpp	/^char GroupMemberShiprootPath[] = "\/octopus";$/;"	v
+HASH_POWER	bloom_filter.cpp	12;"	d	file:
+HASH_POWER	bloomfilter_back/bloom_filter.cpp	12;"	d	file:
+HLIST_HEAD	bloomfilter_back/list.h	577;"	d
+HLIST_HEAD	list.h	577;"	d
+HLIST_HEAD_INIT	bloomfilter_back/list.h	576;"	d
+HLIST_HEAD_INIT	list.h	576;"	d
+Handler	thrift/gen-cpp/Serv.h	/^  typedef ServIf Handler;$/;"	t	class:ServIfFactory
+Handler	thrift_return/gen-cpp/Serv.h	/^  typedef ServIf Handler;$/;"	t	class:ServIfFactory
+INIT_HLIST_HEAD	bloomfilter_back/list.h	578;"	d
+INIT_HLIST_HEAD	list.h	578;"	d
+INIT_HLIST_NODE	bloomfilter_back/list.h	/^static inline void INIT_HLIST_NODE(struct hlist_node *h)$/;"	f
+INIT_HLIST_NODE	list.h	/^static inline void INIT_HLIST_NODE(struct hlist_node *h)$/;"	f
+INIT_LIST_HEAD	bloomfilter_back/list.h	/^static inline void INIT_LIST_HEAD(struct list_head *list)$/;"	f
+INIT_LIST_HEAD	list.h	/^static inline void INIT_LIST_HEAD(struct list_head *list)$/;"	f
+INSERT_NUMBER	dbtest.cpp	10;"	d	file:
+ITEM	thrift/gen-cpp/msg_types.h	/^  ITEM() : url(), isExist(0) {$/;"	f	class:ITEM
+ITEM	thrift/gen-cpp/msg_types.h	/^class ITEM {$/;"	c
+ITEM	thrift_return/gen-cpp/msg_types.h	/^  ITEM() : url(), isExist(0) {$/;"	f	class:ITEM
+ITEM	thrift_return/gen-cpp/msg_types.h	/^class ITEM {$/;"	c
+LIST_HEAD	bloomfilter_back/list.h	53;"	d
+LIST_HEAD	list.h	53;"	d
+LIST_HEAD_INIT	bloomfilter_back/list.h	51;"	d
+LIST_HEAD_INIT	list.h	51;"	d
+LIST_POISON1	bloomfilter_back/list.h	20;"	d
+LIST_POISON1	list.h	20;"	d
+LIST_POISON2	bloomfilter_back/list.h	21;"	d
+LIST_POISON2	list.h	21;"	d
+LeaderPath	zooclient.cpp	/^char LeaderPath[] = "\/octopus\/leader";$/;"	v
+MASK	bloom_filter.cpp	10;"	d	file:
+MASK	bloomfilter_back/bloom_filter.cpp	10;"	d	file:
+MAX_KEY_LEN	bloom_filter.h	13;"	d
+MAX_KEY_LEN	bloomfilter_back/bloom_filter.h	13;"	d
+MurmurHash3_x64_128_for_bloomfilter	bloomfilter_back/murmur.cpp	/^void MurmurHash3_x64_128_for_bloomfilter ( const void * key, const int len,$/;"	f
+MurmurHash3_x64_128_for_bloomfilter	murmur.cpp	/^void MurmurHash3_x64_128_for_bloomfilter ( const void * key, const int len,$/;"	f
+OK	bloom_filter.h	10;"	d
+OK	bloomfilter_back/bloom_filter.h	10;"	d
+ProcessFunction	thrift/gen-cpp/Serv.h	/^  typedef  void (ServProcessor::*ProcessFunction)(int32_t, ::apache::thrift::protocol::TProtocol*, ::apache::thrift::protocol::TProtocol*, void*);$/;"	t	class:ServProcessor
+ProcessFunction	thrift_return/gen-cpp/Serv.h	/^  typedef  void (ServProcessor::*ProcessFunction)(int32_t, ::apache::thrift::protocol::TProtocol*, ::apache::thrift::protocol::TProtocol*, void*);$/;"	t	class:ServProcessor
+ProcessMap	thrift/gen-cpp/Serv.h	/^  typedef std::map<std::string, ProcessFunction> ProcessMap;$/;"	t	class:ServProcessor
+ProcessMap	thrift_return/gen-cpp/Serv.h	/^  typedef std::map<std::string, ProcessFunction> ProcessMap;$/;"	t	class:ServProcessor
+RED_B	dbtest.cpp	6;"	d	file:
+RED_E	dbtest.cpp	7;"	d	file:
+ROTL64	bloomfilter_back/murmur.cpp	19;"	d	file:
+ROTL64	murmur.cpp	19;"	d	file:
+SALT_CONSTANT	bloom_filter.cpp	13;"	d	file:
+SALT_CONSTANT	bloomfilter_back/bloom_filter.cpp	13;"	d	file:
+SHIFT	bloom_filter.cpp	9;"	d	file:
+SHIFT	bloomfilter_back/bloom_filter.cpp	9;"	d	file:
+ServClient	thrift/gen-cpp/Serv.h	/^  ServClient(boost::shared_ptr< ::apache::thrift::protocol::TProtocol> iprot, boost::shared_ptr< ::apache::thrift::protocol::TProtocol> oprot) :$/;"	f	class:ServClient
+ServClient	thrift/gen-cpp/Serv.h	/^  ServClient(boost::shared_ptr< ::apache::thrift::protocol::TProtocol> prot) :$/;"	f	class:ServClient
+ServClient	thrift/gen-cpp/Serv.h	/^class ServClient : virtual public ServIf {$/;"	c
+ServClient	thrift_return/gen-cpp/Serv.h	/^  ServClient(boost::shared_ptr< ::apache::thrift::protocol::TProtocol> iprot, boost::shared_ptr< ::apache::thrift::protocol::TProtocol> oprot) :$/;"	f	class:ServClient
+ServClient	thrift_return/gen-cpp/Serv.h	/^  ServClient(boost::shared_ptr< ::apache::thrift::protocol::TProtocol> prot) :$/;"	f	class:ServClient
+ServClient	thrift_return/gen-cpp/Serv.h	/^class ServClient : virtual public ServIf {$/;"	c
+ServHandler	thrift/gen-cpp/Serv_server.skeleton.cpp	/^  ServHandler() {$/;"	f	class:ServHandler
+ServHandler	thrift/gen-cpp/Serv_server.skeleton.cpp	/^class ServHandler : virtual public ServIf {$/;"	c	file:
+ServHandler	thrift_return/gen-cpp/Serv_server.skeleton.cpp	/^  ServHandler() {$/;"	f	class:ServHandler
+ServHandler	thrift_return/gen-cpp/Serv_server.skeleton.cpp	/^class ServHandler : virtual public ServIf {$/;"	c	file:
+ServIf	thrift/gen-cpp/Serv.h	/^class ServIf {$/;"	c
+ServIf	thrift_return/gen-cpp/Serv.h	/^class ServIf {$/;"	c
+ServIfFactory	thrift/gen-cpp/Serv.h	/^class ServIfFactory {$/;"	c
+ServIfFactory	thrift_return/gen-cpp/Serv.h	/^class ServIfFactory {$/;"	c
+ServIfSingletonFactory	thrift/gen-cpp/Serv.h	/^  ServIfSingletonFactory(const boost::shared_ptr<ServIf>& iface) : iface_(iface) {}$/;"	f	class:ServIfSingletonFactory
+ServIfSingletonFactory	thrift/gen-cpp/Serv.h	/^class ServIfSingletonFactory : virtual public ServIfFactory {$/;"	c
+ServIfSingletonFactory	thrift_return/gen-cpp/Serv.h	/^  ServIfSingletonFactory(const boost::shared_ptr<ServIf>& iface) : iface_(iface) {}$/;"	f	class:ServIfSingletonFactory
+ServIfSingletonFactory	thrift_return/gen-cpp/Serv.h	/^class ServIfSingletonFactory : virtual public ServIfFactory {$/;"	c
+ServMultiface	thrift/gen-cpp/Serv.h	/^  ServMultiface() {}$/;"	f	class:ServMultiface
+ServMultiface	thrift/gen-cpp/Serv.h	/^  ServMultiface(std::vector<boost::shared_ptr<ServIf> >& ifaces) : ifaces_(ifaces) {$/;"	f	class:ServMultiface
+ServMultiface	thrift/gen-cpp/Serv.h	/^class ServMultiface : virtual public ServIf {$/;"	c
+ServMultiface	thrift_return/gen-cpp/Serv.h	/^  ServMultiface() {}$/;"	f	class:ServMultiface
+ServMultiface	thrift_return/gen-cpp/Serv.h	/^  ServMultiface(std::vector<boost::shared_ptr<ServIf> >& ifaces) : ifaces_(ifaces) {$/;"	f	class:ServMultiface
+ServMultiface	thrift_return/gen-cpp/Serv.h	/^class ServMultiface : virtual public ServIf {$/;"	c
+ServNull	thrift/gen-cpp/Serv.h	/^class ServNull : virtual public ServIf {$/;"	c
+ServNull	thrift_return/gen-cpp/Serv.h	/^class ServNull : virtual public ServIf {$/;"	c
+ServProcessor	thrift/gen-cpp/Serv.h	/^  ServProcessor(boost::shared_ptr<ServIf> iface) :$/;"	f	class:ServProcessor
+ServProcessor	thrift/gen-cpp/Serv.h	/^class ServProcessor : public ::apache::thrift::TDispatchProcessor {$/;"	c
+ServProcessor	thrift_return/gen-cpp/Serv.h	/^  ServProcessor(boost::shared_ptr<ServIf> iface) :$/;"	f	class:ServProcessor
+ServProcessor	thrift_return/gen-cpp/Serv.h	/^class ServProcessor : public ::apache::thrift::TDispatchProcessor {$/;"	c
+ServProcessorFactory	thrift/gen-cpp/Serv.h	/^  ServProcessorFactory(const ::boost::shared_ptr< ServIfFactory >& handlerFactory) :$/;"	f	class:ServProcessorFactory
+ServProcessorFactory	thrift/gen-cpp/Serv.h	/^class ServProcessorFactory : public ::apache::thrift::TProcessorFactory {$/;"	c
+ServProcessorFactory	thrift_return/gen-cpp/Serv.h	/^  ServProcessorFactory(const ::boost::shared_ptr< ServIfFactory >& handlerFactory) :$/;"	f	class:ServProcessorFactory
+ServProcessorFactory	thrift_return/gen-cpp/Serv.h	/^class ServProcessorFactory : public ::apache::thrift::TProcessorFactory {$/;"	c
+Serv_H	thrift/gen-cpp/Serv.h	8;"	d
+Serv_H	thrift_return/gen-cpp/Serv.h	8;"	d
+Serv_send_url_list_args	thrift/gen-cpp/Serv.h	/^  Serv_send_url_list_args() {$/;"	f	class:Serv_send_url_list_args
+Serv_send_url_list_args	thrift/gen-cpp/Serv.h	/^class Serv_send_url_list_args {$/;"	c
+Serv_send_url_list_args	thrift_return/gen-cpp/Serv.h	/^  Serv_send_url_list_args() {$/;"	f	class:Serv_send_url_list_args
+Serv_send_url_list_args	thrift_return/gen-cpp/Serv.h	/^class Serv_send_url_list_args {$/;"	c
+Serv_send_url_list_pargs	thrift/gen-cpp/Serv.h	/^class Serv_send_url_list_pargs {$/;"	c
+Serv_send_url_list_pargs	thrift_return/gen-cpp/Serv.h	/^class Serv_send_url_list_pargs {$/;"	c
+Serv_send_url_list_presult	thrift/gen-cpp/Serv.h	/^class Serv_send_url_list_presult {$/;"	c
+Serv_send_url_list_presult	thrift_return/gen-cpp/Serv.h	/^class Serv_send_url_list_presult {$/;"	c
+Serv_send_url_list_result	thrift/gen-cpp/Serv.h	/^  Serv_send_url_list_result() {$/;"	f	class:Serv_send_url_list_result
+Serv_send_url_list_result	thrift/gen-cpp/Serv.h	/^class Serv_send_url_list_result {$/;"	c
+Serv_send_url_list_result	thrift_return/gen-cpp/Serv.h	/^  Serv_send_url_list_result() {$/;"	f	class:Serv_send_url_list_result
+Serv_send_url_list_result	thrift_return/gen-cpp/Serv.h	/^class Serv_send_url_list_result {$/;"	c
+THREAD_NUMBER	dbtest.cpp	11;"	d	file:
+Test	test.cpp	/^  Test() {$/;"	f	class:Test
+Test	test.cpp	/^class Test {$/;"	c	file:
+UINT64_RC	bloom_filter.h	/^typedef unsigned long long UINT64_RC;$/;"	t
+UINT64_RC	bloomfilter_back/bloom_filter.h	/^typedef unsigned long long UINT64_RC;$/;"	t
+_ITEM__isset	thrift/gen-cpp/msg_types.h	/^  _ITEM__isset() : url(false), isExist(false) {}$/;"	f	struct:_ITEM__isset
+_ITEM__isset	thrift/gen-cpp/msg_types.h	/^typedef struct _ITEM__isset {$/;"	s
+_ITEM__isset	thrift/gen-cpp/msg_types.h	/^} _ITEM__isset;$/;"	t	typeref:struct:_ITEM__isset
+_ITEM__isset	thrift_return/gen-cpp/msg_types.h	/^  _ITEM__isset() : url(false), isExist(false) {}$/;"	f	struct:_ITEM__isset
+_ITEM__isset	thrift_return/gen-cpp/msg_types.h	/^typedef struct _ITEM__isset {$/;"	s
+_ITEM__isset	thrift_return/gen-cpp/msg_types.h	/^} _ITEM__isset;$/;"	t	typeref:struct:_ITEM__isset
+_LINUX_LIST_H	bloomfilter_back/list.h	2;"	d
+_LINUX_LIST_H	list.h	2;"	d
+_LL_CAST_	zooclient.cpp	24;"	d	file:
+_MURMURHASH3_H_	bloomfilter_back/murmur.h	6;"	d
+_MURMURHASH3_H_	murmur.h	6;"	d
+_OCTOPUS_B_SERVER_BLOOMFILTER_MANAGER_H_	BloomFilterManager.h	2;"	d
+_Serv_send_url_list_args__isset	thrift/gen-cpp/Serv.h	/^  _Serv_send_url_list_args__isset() : list_url(false) {}$/;"	f	struct:_Serv_send_url_list_args__isset
+_Serv_send_url_list_args__isset	thrift/gen-cpp/Serv.h	/^typedef struct _Serv_send_url_list_args__isset {$/;"	s
+_Serv_send_url_list_args__isset	thrift/gen-cpp/Serv.h	/^} _Serv_send_url_list_args__isset;$/;"	t	typeref:struct:_Serv_send_url_list_args__isset
+_Serv_send_url_list_args__isset	thrift_return/gen-cpp/Serv.h	/^  _Serv_send_url_list_args__isset() : list_url(false) {}$/;"	f	struct:_Serv_send_url_list_args__isset
+_Serv_send_url_list_args__isset	thrift_return/gen-cpp/Serv.h	/^typedef struct _Serv_send_url_list_args__isset {$/;"	s
+_Serv_send_url_list_args__isset	thrift_return/gen-cpp/Serv.h	/^} _Serv_send_url_list_args__isset;$/;"	t	typeref:struct:_Serv_send_url_list_args__isset
+_Serv_send_url_list_presult__isset	thrift_return/gen-cpp/Serv.h	/^  _Serv_send_url_list_presult__isset() : success(false) {}$/;"	f	struct:_Serv_send_url_list_presult__isset
+_Serv_send_url_list_presult__isset	thrift_return/gen-cpp/Serv.h	/^typedef struct _Serv_send_url_list_presult__isset {$/;"	s
+_Serv_send_url_list_presult__isset	thrift_return/gen-cpp/Serv.h	/^} _Serv_send_url_list_presult__isset;$/;"	t	typeref:struct:_Serv_send_url_list_presult__isset
+_Serv_send_url_list_result__isset	thrift_return/gen-cpp/Serv.h	/^  _Serv_send_url_list_result__isset() : success(false) {}$/;"	f	struct:_Serv_send_url_list_result__isset
+_Serv_send_url_list_result__isset	thrift_return/gen-cpp/Serv.h	/^typedef struct _Serv_send_url_list_result__isset {$/;"	s
+_Serv_send_url_list_result__isset	thrift_return/gen-cpp/Serv.h	/^} _Serv_send_url_list_result__isset;$/;"	t	typeref:struct:_Serv_send_url_list_result__isset
+__BLOOM_FILTER_H__	bloom_filter.h	2;"	d
+__BLOOM_FILTER_H__	bloomfilter_back/bloom_filter.h	2;"	d
+__hlist_del	bloomfilter_back/list.h	/^static inline void __hlist_del(struct hlist_node *n)$/;"	f
+__hlist_del	list.h	/^static inline void __hlist_del(struct hlist_node *n)$/;"	f
+__isset	thrift/gen-cpp/Serv.h	/^  _Serv_send_url_list_args__isset __isset;$/;"	m	class:Serv_send_url_list_args
+__isset	thrift/gen-cpp/msg_types.h	/^  _ITEM__isset __isset;$/;"	m	class:ITEM
+__isset	thrift_return/gen-cpp/Serv.h	/^  _Serv_send_url_list_args__isset __isset;$/;"	m	class:Serv_send_url_list_args
+__isset	thrift_return/gen-cpp/Serv.h	/^  _Serv_send_url_list_presult__isset __isset;$/;"	m	class:Serv_send_url_list_presult
+__isset	thrift_return/gen-cpp/Serv.h	/^  _Serv_send_url_list_result__isset __isset;$/;"	m	class:Serv_send_url_list_result
+__isset	thrift_return/gen-cpp/msg_types.h	/^  _ITEM__isset __isset;$/;"	m	class:ITEM
+__list_add	bloomfilter_back/list.h	/^static inline void __list_add(struct list_head *new_one,$/;"	f
+__list_add	list.h	/^static inline void __list_add(struct list_head *new_one,$/;"	f
+__list_cut_position	bloomfilter_back/list.h	/^static inline void __list_cut_position(struct list_head *list,$/;"	f
+__list_cut_position	list.h	/^static inline void __list_cut_position(struct list_head *list,$/;"	f
+__list_del	bloomfilter_back/list.h	/^static inline void __list_del(struct list_head * prev, struct list_head * next)$/;"	f
+__list_del	list.h	/^static inline void __list_del(struct list_head * prev, struct list_head * next)$/;"	f
+__list_for_each	bloomfilter_back/list.h	395;"	d
+__list_for_each	list.h	395;"	d
+__list_splice	bloomfilter_back/list.h	/^static inline void __list_splice(const struct list_head *list,$/;"	f
+__list_splice	list.h	/^static inline void __list_splice(const struct list_head *list,$/;"	f
+__set_isExist	thrift/gen-cpp/msg_types.h	/^  void __set_isExist(const bool val) {$/;"	f	class:ITEM
+__set_isExist	thrift_return/gen-cpp/msg_types.h	/^  void __set_isExist(const bool val) {$/;"	f	class:ITEM
+__set_list_url	thrift/gen-cpp/Serv.h	/^  void __set_list_url(const std::vector<ITEM> & val) {$/;"	f	class:Serv_send_url_list_args
+__set_list_url	thrift_return/gen-cpp/Serv.h	/^  void __set_list_url(const std::vector<ITEM> & val) {$/;"	f	class:Serv_send_url_list_args
+__set_success	thrift_return/gen-cpp/Serv.h	/^  void __set_success(const std::vector<ITEM> & val) {$/;"	f	class:Serv_send_url_list_result
+__set_url	thrift/gen-cpp/msg_types.h	/^  void __set_url(const std::string& val) {$/;"	f	class:ITEM
+__set_url	thrift_return/gen-cpp/msg_types.h	/^  void __set_url(const std::string& val) {$/;"	f	class:ITEM
+_bloom	bloom_filter.h	/^typedef struct _bloom{$/;"	s
+_bloom	bloomfilter_back/bloom_filter.h	/^typedef struct _bloom{$/;"	s
+a	test.cpp	/^  int a ;$/;"	m	struct:arynode_	file:
+add	BloomFilterManager.cpp	/^    int16_t BloomFilterManager::add(char *key, int64_t n, double e) {$/;"	f	class:octopus::b_server::BloomFilterManager
+add	BloomFilterManager.cpp	/^    int16_t BloomFilterManager::add(uint32_t key, int64_t n, double e) {$/;"	f	class:octopus::b_server::BloomFilterManager
+add	thrift/gen-cpp/Serv.h	/^  void add(boost::shared_ptr<ServIf> iface) {$/;"	f	class:ServMultiface
+add	thrift_return/gen-cpp/Serv.h	/^  void add(boost::shared_ptr<ServIf> iface) {$/;"	f	class:ServMultiface
+all_path	zooclient.cpp	/^string all_path;$/;"	v
+arynode	test.cpp	/^}arynode;$/;"	t	typeref:struct:arynode_	file:
+arynode_	test.cpp	/^  arynode_(int a ,int b)$/;"	f	struct:arynode_
+arynode_	test.cpp	/^typedef struct arynode_$/;"	s	file:
+ascii_fingerprint	thrift/gen-cpp/msg_types.cpp	/^const char* ITEM::ascii_fingerprint = "7D61C9AA00102AB4D8F72A1DA58297DC";$/;"	m	class:ITEM	file:
+ascii_fingerprint	thrift/gen-cpp/msg_types.h	/^  static const char* ascii_fingerprint; \/\/ = "7D61C9AA00102AB4D8F72A1DA58297DC";$/;"	m	class:ITEM
+ascii_fingerprint	thrift_return/gen-cpp/msg_types.cpp	/^const char* ITEM::ascii_fingerprint = "7D61C9AA00102AB4D8F72A1DA58297DC";$/;"	m	class:ITEM	file:
+ascii_fingerprint	thrift_return/gen-cpp/msg_types.h	/^  static const char* ascii_fingerprint; \/\/ = "7D61C9AA00102AB4D8F72A1DA58297DC";$/;"	m	class:ITEM
+b	test.cpp	/^  int b ;$/;"	m	struct:arynode_	file:
+b_server	BloomFilterManager.cpp	/^  namespace b_server {$/;"	n	namespace:octopus	file:
+b_server	BloomFilterManager.h	/^  namespace b_server {$/;"	n	namespace:octopus
+batchMode	zooclient.cpp	/^static int batchMode=0;$/;"	v	file:
+binary_fingerprint	thrift/gen-cpp/msg_types.cpp	/^const uint8_t ITEM::binary_fingerprint[16] = {0x7D,0x61,0xC9,0xAA,0x00,0x10,0x2A,0xB4,0xD8,0xF7,0x2A,0x1D,0xA5,0x82,0x97,0xDC};$/;"	m	class:ITEM	file:
+binary_fingerprint	thrift/gen-cpp/msg_types.h	/^  static const uint8_t binary_fingerprint[16]; \/\/ = {0x7D,0x61,0xC9,0xAA,0x00,0x10,0x2A,0xB4,0xD8,0xF7,0x2A,0x1D,0xA5,0x82,0x97,0xDC};$/;"	m	class:ITEM
+binary_fingerprint	thrift_return/gen-cpp/msg_types.cpp	/^const uint8_t ITEM::binary_fingerprint[16] = {0x7D,0x61,0xC9,0xAA,0x00,0x10,0x2A,0xB4,0xD8,0xF7,0x2A,0x1D,0xA5,0x82,0x97,0xDC};$/;"	m	class:ITEM	file:
+binary_fingerprint	thrift_return/gen-cpp/msg_types.h	/^  static const uint8_t binary_fingerprint[16]; \/\/ = {0x7D,0x61,0xC9,0xAA,0x00,0x10,0x2A,0xB4,0xD8,0xF7,0x2A,0x1D,0xA5,0x82,0x97,0xDC};$/;"	m	class:ITEM
+bitmap_check	bloom_filter.cpp	/^FORCE_INLINE int  bitmap_check(int *map, UINT64_RC i)$/;"	f
+bitmap_check	bloomfilter_back/bloom_filter.cpp	/^FORCE_INLINE int  bitmap_check(int *map, UINT64_RC i)$/;"	f
+bitmap_clear	bloom_filter.cpp	/^FORCE_INLINE void bitmap_clear(int *map, UINT64_RC i) $/;"	f
+bitmap_clear	bloomfilter_back/bloom_filter.cpp	/^FORCE_INLINE void bitmap_clear(int *map, UINT64_RC i) $/;"	f
+bitmap_set	bloom_filter.cpp	/^FORCE_INLINE void bitmap_set(int *map, UINT64_RC i) $/;"	f
+bitmap_set	bloomfilter_back/bloom_filter.cpp	/^FORCE_INLINE void bitmap_set(int *map, UINT64_RC i) $/;"	f
+bloom_delete	bloom_filter.cpp	/^static void bloom_delete (bloom_t *bloom)$/;"	f	file:
+bloom_delete	bloomfilter_back/bloom_filter.cpp	/^static void bloom_delete (bloom_t *bloom)$/;"	f	file:
+bloom_dlist_lock	bloom_filter.cpp	/^pthread_rwlock_t bloom_dlist_lock;$/;"	v
+bloom_dlist_lock	bloomfilter_back/bloom_filter.cpp	/^pthread_rwlock_t bloom_dlist_lock;$/;"	v
+bloom_get	bloom_filter.cpp	/^int bloom_get (bloom_t *bloom, char *key) $/;"	f
+bloom_get	bloomfilter_back/bloom_filter.cpp	/^int bloom_get (bloom_t *bloom, char *key) $/;"	f
+bloom_hash_lock	bloom_filter.cpp	/^pthread_rwlock_t bloom_hash_lock;$/;"	v
+bloom_hash_lock	bloomfilter_back/bloom_filter.cpp	/^pthread_rwlock_t bloom_hash_lock;$/;"	v
+bloom_init	bloom_filter.cpp	/^bloom_t *bloom_init (char * key, UINT64_RC n, double e)$/;"	f
+bloom_init	bloomfilter_back/bloom_filter.cpp	/^bloom_t *bloom_init (char * key, UINT64_RC n, double e)$/;"	f
+bloom_set	bloom_filter.cpp	/^int bloom_set (bloom_t *bloom, char *key) $/;"	f
+bloom_set	bloomfilter_back/bloom_filter.cpp	/^int bloom_set (bloom_t *bloom, char *key) $/;"	f
+bloom_status	bloom_filter.cpp	/^int bloom_status (char * key)$/;"	f
+bloom_status	bloomfilter_back/bloom_filter.cpp	/^int bloom_status (char * key)$/;"	f
+bloom_t	bloom_filter.h	/^} bloom_t;$/;"	t	typeref:struct:_bloom
+bloom_t	bloomfilter_back/bloom_filter.h	/^} bloom_t;$/;"	t	typeref:struct:_bloom
+blooms	bloom_filter.cpp	/^blooms_t *blooms = NULL;$/;"	v
+blooms	bloomfilter_back/bloom_filter.cpp	/^blooms_t *blooms = NULL;$/;"	v
+blooms_add	bloom_filter.cpp	/^int blooms_add (char *key, UINT64_RC n, double e)$/;"	f
+blooms_add	bloomfilter_back/bloom_filter.cpp	/^int blooms_add (char *key, UINT64_RC n, double e)$/;"	f
+blooms_delete	bloom_filter.cpp	/^int blooms_delete (char *key)$/;"	f
+blooms_delete	bloomfilter_back/bloom_filter.cpp	/^int blooms_delete (char *key)$/;"	f
+blooms_delete_all	bloom_filter.cpp	/^void blooms_delete_all() {$/;"	f
+blooms_delete_all	bloomfilter_back/bloom_filter.cpp	/^void blooms_delete_all() {$/;"	f
+blooms_get	bloom_filter.cpp	/^int blooms_get (char *key, char *subkey)$/;"	f
+blooms_get	bloomfilter_back/bloom_filter.cpp	/^int blooms_get (char *key, char *subkey)$/;"	f
+blooms_init	bloom_filter.cpp	/^int blooms_init (size_t max)$/;"	f
+blooms_init	bloomfilter_back/bloom_filter.cpp	/^int blooms_init (size_t max)$/;"	f
+blooms_search	bloom_filter.cpp	/^bloom_t *blooms_search(char *key)$/;"	f
+blooms_search	bloomfilter_back/bloom_filter.cpp	/^bloom_t *blooms_search(char *key)$/;"	f
+blooms_set	bloom_filter.cpp	/^int blooms_set (char *key, char *subkey)$/;"	f
+blooms_set	bloomfilter_back/bloom_filter.cpp	/^int blooms_set (char *key, char *subkey)$/;"	f
+blooms_status	bloom_filter.cpp	/^void blooms_status ()$/;"	f
+blooms_status	bloom_filter.cpp	/^void blooms_status(char *buf)$/;"	f
+blooms_status	bloomfilter_back/bloom_filter.cpp	/^void blooms_status ()$/;"	f
+blooms_status	bloomfilter_back/bloom_filter.cpp	/^void blooms_status(char *buf)$/;"	f
+blooms_t	bloom_filter.h	/^} blooms_t;$/;"	t	typeref:struct:__anon1
+blooms_t	bloomfilter_back/bloom_filter.h	/^} blooms_t;$/;"	t	typeref:struct:__anon2
+bytes	bloom_filter.h	/^    size_t bytes;$/;"	m	struct:__anon1
+bytes	bloom_filter.h	/^    size_t bytes;$/;"	m	struct:_bloom
+bytes	bloomfilter_back/bloom_filter.h	/^    size_t bytes;$/;"	m	struct:__anon2
+bytes	bloomfilter_back/bloom_filter.h	/^    size_t bytes;$/;"	m	struct:_bloom
+calculate	bloom_filter.cpp	/^size_t calculate (UINT64_RC n, double e, UINT64_RC* m, int* k, double* tmp_e)$/;"	f
+calculate	bloomfilter_back/bloom_filter.cpp	/^size_t calculate (UINT64_RC n, double e, UINT64_RC* m, int* k, double* tmp_e)$/;"	f
+case_batch_insert_url_mongo	dbtest.cpp	/^  void case_batch_insert_url_mongo(void) {$/;"	f
+case_duplicate_mongo	dbtest.cpp	/^  void case_duplicate_mongo(void) {$/;"	f
+case_get_update_position_mongo	dbtest.cpp	/^  void case_get_update_position_mongo(void) {$/;"	f
+case_insert_get_entrance_mongo	dbtest.cpp	/^  void case_insert_get_entrance_mongo(void) {$/;"	f
+case_insert_get_fetchedurl_mongo	dbtest.cpp	/^  void case_insert_get_fetchedurl_mongo(void) {$/;"	f
+case_insert_get_normalurl_mongo	dbtest.cpp	/^  void case_insert_get_normalurl_mongo(void) {$/;"	f
+case_insert_get_priorityurl_mongo	dbtest.cpp	/^  void case_insert_get_priorityurl_mongo(void) {$/;"	f
+clientIdFile	zooclient.cpp	/^static const char *clientIdFile = 0;$/;"	v	file:
+cmd	zooclient.cpp	/^static char cmd[1024];$/;"	v	file:
+container_of	bloomfilter_back/list.h	30;"	d
+container_of	list.h	30;"	d
+count	bloom_filter.h	/^    int count;$/;"	m	struct:__anon1
+count	bloomfilter_back/bloom_filter.h	/^    int count;$/;"	m	struct:__anon2
+create_mynode	zooclient.cpp	/^string create_mynode()$/;"	f
+delete_urls	test.cpp	/^void delete_urls(list<UrlNode *> &urls)$/;"	f
+dictGenHashFunction	bloom_filter.cpp	/^unsigned int dictGenHashFunction(const unsigned char *buf, int len) {$/;"	f
+dictGenHashFunction	bloomfilter_back/bloom_filter.cpp	/^unsigned int dictGenHashFunction(const unsigned char *buf, int len) {$/;"	f
+dispatchCall	thrift/gen-cpp/Serv.cpp	/^bool ServProcessor::dispatchCall(::apache::thrift::protocol::TProtocol* iprot, ::apache::thrift::protocol::TProtocol* oprot, const std::string& fname, int32_t seqid, void* callContext) {$/;"	f	class:ServProcessor
+dispatchCall	thrift_return/gen-cpp/Serv.cpp	/^bool ServProcessor::dispatchCall(::apache::thrift::protocol::TProtocol* iprot, ::apache::thrift::protocol::TProtocol* oprot, const std::string& fname, int32_t seqid, void* callContext) {$/;"	f	class:ServProcessor
+dumpStat	zooclient.cpp	/^void dumpStat(const struct Stat *stat) {$/;"	f
+e	bloom_filter.h	/^    double e;$/;"	m	struct:_bloom
+e	bloomfilter_back/bloom_filter.h	/^    double e;$/;"	m	struct:_bloom
+e2	bloom_filter.h	/^    double e2;$/;"	m	struct:_bloom
+e2	bloomfilter_back/bloom_filter.h	/^    double e2;$/;"	m	struct:_bloom
+extract_url	test.cpp	/^void extract_url()$/;"	f
+findLeader	zooclient.cpp	/^void  findLeader()$/;"	f
+first	bloomfilter_back/list.h	/^	struct hlist_node *first;$/;"	m	struct:hlist_head	typeref:struct:hlist_head::hlist_node
+first	list.h	/^	struct hlist_node *first;$/;"	m	struct:hlist_head	typeref:struct:hlist_head::hlist_node
+fmix64	bloomfilter_back/murmur.cpp	/^FORCE_INLINE uint64_t fmix64(uint64_t k)$/;"	f
+fmix64	murmur.cpp	/^FORCE_INLINE uint64_t fmix64(uint64_t k)$/;"	f
+foo	test.cpp	/^void foo(void) $/;"	f
+foo1	test.cpp	/^void foo1()$/;"	f
+g_msg_constants	thrift/gen-cpp/msg_constants.cpp	/^const msgConstants g_msg_constants;$/;"	v
+g_msg_constants	thrift_return/gen-cpp/msg_constants.cpp	/^const msgConstants g_msg_constants;$/;"	v
+get	BloomFilterManager.cpp	/^    int16_t BloomFilterManager::get(char *bloom_key, char *key) {$/;"	f	class:octopus::b_server::BloomFilterManager
+get	BloomFilterManager.cpp	/^    int16_t BloomFilterManager::get(uint32_t bloom_key, char *key) {$/;"	f	class:octopus::b_server::BloomFilterManager
+getHandler	thrift/gen-cpp/Serv.h	/^  virtual ServIf* getHandler(const ::apache::thrift::TConnectionInfo&) {$/;"	f	class:ServIfSingletonFactory
+getHandler	thrift_return/gen-cpp/Serv.h	/^  virtual ServIf* getHandler(const ::apache::thrift::TConnectionInfo&) {$/;"	f	class:ServIfSingletonFactory
+getInputProtocol	thrift/gen-cpp/Serv.h	/^  boost::shared_ptr< ::apache::thrift::protocol::TProtocol> getInputProtocol() {$/;"	f	class:ServClient
+getInputProtocol	thrift_return/gen-cpp/Serv.h	/^  boost::shared_ptr< ::apache::thrift::protocol::TProtocol> getInputProtocol() {$/;"	f	class:ServClient
+getNow1	dbtest.cpp	/^  void getNow1(int *second, int *micro) {$/;"	f
+getOutputProtocol	thrift/gen-cpp/Serv.h	/^  boost::shared_ptr< ::apache::thrift::protocol::TProtocol> getOutputProtocol() {$/;"	f	class:ServClient
+getOutputProtocol	thrift_return/gen-cpp/Serv.h	/^  boost::shared_ptr< ::apache::thrift::protocol::TProtocol> getOutputProtocol() {$/;"	f	class:ServClient
+getProcessor	thrift/gen-cpp/Serv.cpp	/^::boost::shared_ptr< ::apache::thrift::TProcessor > ServProcessorFactory::getProcessor(const ::apache::thrift::TConnectionInfo& connInfo) {$/;"	f	class:ServProcessorFactory
+getProcessor	thrift_return/gen-cpp/Serv.cpp	/^::boost::shared_ptr< ::apache::thrift::TProcessor > ServProcessorFactory::getProcessor(const ::apache::thrift::TConnectionInfo& connInfo) {$/;"	f	class:ServProcessorFactory
+get_child	zooclient.cpp	/^void get_child()$/;"	f
+get_child_completion	zooclient.cpp	/^void get_child_completion(int rc, const struct String_vector *strings, const void *data)$/;"	f
+get_child_watcher	zooclient.cpp	/^void get_child_watcher(zhandle_t *zzh, int type, int state, const char *path,void* context)$/;"	f
+get_count	bloom_filter.h	/^    UINT64_RC get_count;$/;"	m	struct:__anon1
+get_count	bloom_filter.h	/^    UINT64_RC get_count;$/;"	m	struct:_bloom
+get_count	bloomfilter_back/bloom_filter.h	/^    UINT64_RC get_count;$/;"	m	struct:__anon2
+get_count	bloomfilter_back/bloom_filter.h	/^    UINT64_RC get_count;$/;"	m	struct:_bloom
+get_ip_port	test.cpp	/^void get_ip_port(string &ip, int16_t &port , char * buf)$/;"	f
+get_miss_count	bloom_filter.h	/^    UINT64_RC get_miss_count;$/;"	m	struct:__anon1
+get_miss_count	bloom_filter.h	/^    UINT64_RC get_miss_count;$/;"	m	struct:_bloom
+get_miss_count	bloomfilter_back/bloom_filter.h	/^    UINT64_RC get_miss_count;$/;"	m	struct:__anon2
+get_miss_count	bloomfilter_back/bloom_filter.h	/^    UINT64_RC get_miss_count;$/;"	m	struct:_bloom
+get_time_of_nsec	test.cpp	/^void get_time_of_nsec()$/;"	f
+getblock	bloomfilter_back/murmur.cpp	23;"	d	file:
+getblock	murmur.cpp	23;"	d	file:
+handlerFactory_	thrift/gen-cpp/Serv.h	/^  ::boost::shared_ptr< ServIfFactory > handlerFactory_;$/;"	m	class:ServProcessorFactory
+handlerFactory_	thrift_return/gen-cpp/Serv.h	/^  ::boost::shared_ptr< ServIfFactory > handlerFactory_;$/;"	m	class:ServProcessorFactory
+hash_next	bloom_filter.h	/^    struct _bloom *hash_next;$/;"	m	struct:_bloom	typeref:struct:_bloom::_bloom
+hash_next	bloomfilter_back/bloom_filter.h	/^    struct _bloom *hash_next;$/;"	m	struct:_bloom	typeref:struct:_bloom::_bloom
+hashmask	bloom_filter.cpp	16;"	d	file:
+hashmask	bloomfilter_back/bloom_filter.cpp	16;"	d	file:
+hashsize	bloom_filter.cpp	15;"	d	file:
+hashsize	bloomfilter_back/bloom_filter.cpp	15;"	d	file:
+hashtable	bloom_filter.h	/^    bloom_t *hashtable[0];$/;"	m	struct:__anon1
+hashtable	bloomfilter_back/bloom_filter.h	/^    bloom_t *hashtable[0];$/;"	m	struct:__anon2
+hbase_thread	dbtest.cpp	/^  void* hbase_thread(void *param) {$/;"	f
+hlist_add_after	bloomfilter_back/list.h	/^static inline void hlist_add_after(struct hlist_node *n,$/;"	f
+hlist_add_after	list.h	/^static inline void hlist_add_after(struct hlist_node *n,$/;"	f
+hlist_add_before	bloomfilter_back/list.h	/^static inline void hlist_add_before(struct hlist_node *n,$/;"	f
+hlist_add_before	list.h	/^static inline void hlist_add_before(struct hlist_node *n,$/;"	f
+hlist_add_head	bloomfilter_back/list.h	/^static inline void hlist_add_head(struct hlist_node *n, struct hlist_head *h)$/;"	f
+hlist_add_head	list.h	/^static inline void hlist_add_head(struct hlist_node *n, struct hlist_head *h)$/;"	f
+hlist_del	bloomfilter_back/list.h	/^static inline void hlist_del(struct hlist_node *n)$/;"	f
+hlist_del	list.h	/^static inline void hlist_del(struct hlist_node *n)$/;"	f
+hlist_del_init	bloomfilter_back/list.h	/^static inline void hlist_del_init(struct hlist_node *n)$/;"	f
+hlist_del_init	list.h	/^static inline void hlist_del_init(struct hlist_node *n)$/;"	f
+hlist_empty	bloomfilter_back/list.h	/^static inline int hlist_empty(const struct hlist_head *h)$/;"	f
+hlist_empty	list.h	/^static inline int hlist_empty(const struct hlist_head *h)$/;"	f
+hlist_entry	bloomfilter_back/list.h	663;"	d
+hlist_entry	list.h	663;"	d
+hlist_for_each	bloomfilter_back/list.h	665;"	d
+hlist_for_each	list.h	665;"	d
+hlist_for_each_entry	bloomfilter_back/list.h	680;"	d
+hlist_for_each_entry	list.h	680;"	d
+hlist_for_each_entry_continue	bloomfilter_back/list.h	692;"	d
+hlist_for_each_entry_continue	list.h	692;"	d
+hlist_for_each_entry_from	bloomfilter_back/list.h	704;"	d
+hlist_for_each_entry_from	list.h	704;"	d
+hlist_for_each_entry_safe	bloomfilter_back/list.h	717;"	d
+hlist_for_each_entry_safe	list.h	717;"	d
+hlist_for_each_safe	bloomfilter_back/list.h	669;"	d
+hlist_for_each_safe	list.h	669;"	d
+hlist_head	bloomfilter_back/list.h	/^struct hlist_head {$/;"	s
+hlist_head	list.h	/^struct hlist_head {$/;"	s
+hlist_move_list	bloomfilter_back/list.h	/^static inline void hlist_move_list(struct hlist_head *old,$/;"	f
+hlist_move_list	list.h	/^static inline void hlist_move_list(struct hlist_head *old,$/;"	f
+hlist_node	bloomfilter_back/list.h	/^struct hlist_node {$/;"	s
+hlist_node	list.h	/^struct hlist_node {$/;"	s
+hlist_unhashed	bloomfilter_back/list.h	/^static inline int hlist_unhashed(const struct hlist_node *h)$/;"	f
+hlist_unhashed	list.h	/^static inline int hlist_unhashed(const struct hlist_node *h)$/;"	f
+iface_	thrift/gen-cpp/Serv.h	/^  boost::shared_ptr<ServIf> iface_;$/;"	m	class:ServIfSingletonFactory
+iface_	thrift/gen-cpp/Serv.h	/^  boost::shared_ptr<ServIf> iface_;$/;"	m	class:ServProcessor
+iface_	thrift_return/gen-cpp/Serv.h	/^  boost::shared_ptr<ServIf> iface_;$/;"	m	class:ServIfSingletonFactory
+iface_	thrift_return/gen-cpp/Serv.h	/^  boost::shared_ptr<ServIf> iface_;$/;"	m	class:ServProcessor
+ifaces_	thrift/gen-cpp/Serv.h	/^  std::vector<boost::shared_ptr<ServIf> > ifaces_;$/;"	m	class:ServMultiface
+ifaces_	thrift_return/gen-cpp/Serv.h	/^  std::vector<boost::shared_ptr<ServIf> > ifaces_;$/;"	m	class:ServMultiface
+immediate_shutdown	BloomFilterManager.cpp	/^    int16_t BloomFilterManager::immediate_shutdown() {$/;"	f	class:octopus::b_server::BloomFilterManager
+init	BloomFilterManager.cpp	/^    int16_t BloomFilterManager::init(size_t max) {$/;"	f	class:octopus::b_server::BloomFilterManager
+initialize	BloomFilterManager.cpp	/^    int16_t BloomFilterManager::initialize() {$/;"	f	class:octopus::b_server::BloomFilterManager
+iprot_	thrift/gen-cpp/Serv.h	/^  ::apache::thrift::protocol::TProtocol* iprot_;$/;"	m	class:ServClient
+iprot_	thrift_return/gen-cpp/Serv.h	/^  ::apache::thrift::protocol::TProtocol* iprot_;$/;"	m	class:ServClient
+isExist	thrift/gen-cpp/msg_types.h	/^  bool isExist;$/;"	m	class:ITEM
+isExist	thrift/gen-cpp/msg_types.h	/^  bool isExist;$/;"	m	struct:_ITEM__isset
+isExist	thrift_return/gen-cpp/msg_types.h	/^  bool isExist;$/;"	m	class:ITEM
+isExist	thrift_return/gen-cpp/msg_types.h	/^  bool isExist;$/;"	m	struct:_ITEM__isset
+json_unescape_str	test.cpp	/^int16_t json_unescape_str(string & content)$/;"	f
+k	bloom_filter.h	/^    int k;$/;"	m	struct:_bloom
+k	bloomfilter_back/bloom_filter.h	/^    int k;$/;"	m	struct:_bloom
+key	bloom_filter.h	/^    char key[MAX_KEY_LEN];$/;"	m	struct:_bloom
+key	bloomfilter_back/bloom_filter.h	/^    char key[MAX_KEY_LEN];$/;"	m	struct:_bloom
+leader_awexists	zooclient.cpp	/^int leader_awexists(zhandle_t *zh, string path)$/;"	f
+list	bloom_filter.h	/^    struct list_head list;$/;"	m	struct:__anon1	typeref:struct:__anon1::list_head
+list	bloom_filter.h	/^    struct list_head list;$/;"	m	struct:_bloom	typeref:struct:_bloom::list_head
+list	bloomfilter_back/bloom_filter.h	/^    struct list_head list;$/;"	m	struct:__anon2	typeref:struct:__anon2::list_head
+list	bloomfilter_back/bloom_filter.h	/^    struct list_head list;$/;"	m	struct:_bloom	typeref:struct:_bloom::list_head
+list_add	bloomfilter_back/list.h	/^static inline void list_add(struct list_head *new_one, struct list_head *head)$/;"	f
+list_add	list.h	/^static inline void list_add(struct list_head *new_one, struct list_head *head)$/;"	f
+list_add_tail	bloomfilter_back/list.h	/^static inline void list_add_tail(struct list_head *new_one, struct list_head *head)$/;"	f
+list_add_tail	list.h	/^static inline void list_add_tail(struct list_head *new_one, struct list_head *head)$/;"	f
+list_cut_position	bloomfilter_back/list.h	/^static inline void list_cut_position(struct list_head *list,$/;"	f
+list_cut_position	list.h	/^static inline void list_cut_position(struct list_head *list,$/;"	f
+list_del	bloomfilter_back/list.h	/^static inline void list_del(struct list_head *entry)$/;"	f
+list_del	list.h	/^static inline void list_del(struct list_head *entry)$/;"	f
+list_del_init	bloomfilter_back/list.h	/^static inline void list_del_init(struct list_head *entry)$/;"	f
+list_del_init	list.h	/^static inline void list_del_init(struct list_head *entry)$/;"	f
+list_empty	bloomfilter_back/list.h	/^static inline int list_empty(const struct list_head *head)$/;"	f
+list_empty	list.h	/^static inline int list_empty(const struct list_head *head)$/;"	f
+list_empty_careful	bloomfilter_back/list.h	/^static inline int list_empty_careful(const struct list_head *head)$/;"	f
+list_empty_careful	list.h	/^static inline int list_empty_careful(const struct list_head *head)$/;"	f
+list_entry	bloomfilter_back/list.h	362;"	d
+list_entry	list.h	362;"	d
+list_first_entry	bloomfilter_back/list.h	373;"	d
+list_first_entry	list.h	373;"	d
+list_for_each	bloomfilter_back/list.h	381;"	d
+list_for_each	list.h	381;"	d
+list_for_each_entry	bloomfilter_back/list.h	434;"	d
+list_for_each_entry	list.h	434;"	d
+list_for_each_entry_continue	bloomfilter_back/list.h	470;"	d
+list_for_each_entry_continue	list.h	470;"	d
+list_for_each_entry_continue_reverse	bloomfilter_back/list.h	484;"	d
+list_for_each_entry_continue_reverse	list.h	484;"	d
+list_for_each_entry_from	bloomfilter_back/list.h	497;"	d
+list_for_each_entry_from	list.h	497;"	d
+list_for_each_entry_reverse	bloomfilter_back/list.h	445;"	d
+list_for_each_entry_reverse	list.h	445;"	d
+list_for_each_entry_safe	bloomfilter_back/list.h	508;"	d
+list_for_each_entry_safe	list.h	508;"	d
+list_for_each_entry_safe_continue	bloomfilter_back/list.h	524;"	d
+list_for_each_entry_safe_continue	list.h	524;"	d
+list_for_each_entry_safe_from	bloomfilter_back/list.h	540;"	d
+list_for_each_entry_safe_from	list.h	540;"	d
+list_for_each_entry_safe_reverse	bloomfilter_back/list.h	555;"	d
+list_for_each_entry_safe_reverse	list.h	555;"	d
+list_for_each_prev	bloomfilter_back/list.h	403;"	d
+list_for_each_prev	list.h	403;"	d
+list_for_each_prev_safe	bloomfilter_back/list.h	423;"	d
+list_for_each_prev_safe	list.h	423;"	d
+list_for_each_safe	bloomfilter_back/list.h	413;"	d
+list_for_each_safe	list.h	413;"	d
+list_head	bloomfilter_back/list.h	/^struct list_head {$/;"	s
+list_head	list.h	/^struct list_head {$/;"	s
+list_is_last	bloomfilter_back/list.h	/^static inline int list_is_last(const struct list_head *list,$/;"	f
+list_is_last	list.h	/^static inline int list_is_last(const struct list_head *list,$/;"	f
+list_is_singular	bloomfilter_back/list.h	/^static inline int list_is_singular(const struct list_head *head)$/;"	f
+list_is_singular	list.h	/^static inline int list_is_singular(const struct list_head *head)$/;"	f
+list_merge	test.cpp	/^void list_merge()$/;"	f
+list_move	bloomfilter_back/list.h	/^static inline void list_move(struct list_head *list, struct list_head *head)$/;"	f
+list_move	list.h	/^static inline void list_move(struct list_head *list, struct list_head *head)$/;"	f
+list_move_tail	bloomfilter_back/list.h	/^static inline void list_move_tail(struct list_head *list,$/;"	f
+list_move_tail	list.h	/^static inline void list_move_tail(struct list_head *list,$/;"	f
+list_prepare_entry	bloomfilter_back/list.h	458;"	d
+list_prepare_entry	list.h	458;"	d
+list_replace	bloomfilter_back/list.h	/^static inline void list_replace(struct list_head *old,$/;"	f
+list_replace	list.h	/^static inline void list_replace(struct list_head *old,$/;"	f
+list_replace_init	bloomfilter_back/list.h	/^static inline void list_replace_init(struct list_head *old,$/;"	f
+list_replace_init	list.h	/^static inline void list_replace_init(struct list_head *old,$/;"	f
+list_splice	bloomfilter_back/list.h	/^static inline void list_splice(const struct list_head *list,$/;"	f
+list_splice	list.h	/^static inline void list_splice(const struct list_head *list,$/;"	f
+list_splice_init	bloomfilter_back/list.h	/^static inline void list_splice_init(struct list_head *list,$/;"	f
+list_splice_init	list.h	/^static inline void list_splice_init(struct list_head *list,$/;"	f
+list_splice_tail	bloomfilter_back/list.h	/^static inline void list_splice_tail(struct list_head *list,$/;"	f
+list_splice_tail	list.h	/^static inline void list_splice_tail(struct list_head *list,$/;"	f
+list_splice_tail_init	bloomfilter_back/list.h	/^static inline void list_splice_tail_init(struct list_head *list,$/;"	f
+list_splice_tail_init	list.h	/^static inline void list_splice_tail_init(struct list_head *list,$/;"	f
+list_url	thrift/gen-cpp/Serv.h	/^  bool list_url;$/;"	m	struct:_Serv_send_url_list_args__isset
+list_url	thrift/gen-cpp/Serv.h	/^  const std::vector<ITEM> * list_url;$/;"	m	class:Serv_send_url_list_pargs
+list_url	thrift/gen-cpp/Serv.h	/^  std::vector<ITEM>  list_url;$/;"	m	class:Serv_send_url_list_args
+list_url	thrift_return/gen-cpp/Serv.h	/^  bool list_url;$/;"	m	struct:_Serv_send_url_list_args__isset
+list_url	thrift_return/gen-cpp/Serv.h	/^  const std::vector<ITEM> * list_url;$/;"	m	class:Serv_send_url_list_pargs
+list_url	thrift_return/gen-cpp/Serv.h	/^  std::vector<ITEM>  list_url;$/;"	m	class:Serv_send_url_list_args
+m	bloom_filter.h	/^    UINT64_RC m;$/;"	m	struct:_bloom
+m	bloomfilter_back/bloom_filter.h	/^    UINT64_RC m;$/;"	m	struct:_bloom
+main	dbtest.cpp	/^  int main(int argc, char **argv) {$/;"	f
+main	main.cpp	/^int main(int argc, char** argv)$/;"	f
+main	test.c	/^int main()$/;"	f
+main	test.cpp	/^int main(int argc, char **argv) $/;"	f
+main	testbloomfilter.cpp	/^int main()$/;"	f
+main	thrift/gen-cpp/Serv_server.skeleton.cpp	/^int main(int argc, char **argv) {$/;"	f
+main	thrift/gen-cpp/client.cpp	/^int main(int argc, char **argv) {  $/;"	f
+main	thrift_return/gen-cpp/Serv_server.skeleton.cpp	/^int main(int argc, char **argv) {$/;"	f
+main	thrift_return/gen-cpp/client.cpp	/^int main(int argc, char **argv) {  $/;"	f
+main	zooclient.cpp	/^int main(int argc, char **argv) {$/;"	f
+manager	test.cpp	/^  void *manager;$/;"	m	struct:onfindpackage	file:
+map	bloom_filter.h	/^    int map[0];$/;"	m	struct:_bloom
+map	bloomfilter_back/bloom_filter.h	/^    int map[0];$/;"	m	struct:_bloom
+max_bytes	bloom_filter.h	/^    size_t max_bytes;$/;"	m	struct:__anon1
+max_bytes	bloomfilter_back/bloom_filter.h	/^    size_t max_bytes;$/;"	m	struct:__anon2
+mongo_thread	dbtest.cpp	/^  void* mongo_thread(void *param) {$/;"	f
+msgConstants	thrift/gen-cpp/msg_constants.cpp	/^msgConstants::msgConstants() {$/;"	f	class:msgConstants
+msgConstants	thrift/gen-cpp/msg_constants.h	/^class msgConstants {$/;"	c
+msgConstants	thrift_return/gen-cpp/msg_constants.cpp	/^msgConstants::msgConstants() {$/;"	f	class:msgConstants
+msgConstants	thrift_return/gen-cpp/msg_constants.h	/^class msgConstants {$/;"	c
+msg_CONSTANTS_H	thrift/gen-cpp/msg_constants.h	8;"	d
+msg_CONSTANTS_H	thrift_return/gen-cpp/msg_constants.h	8;"	d
+msg_TYPES_H	thrift/gen-cpp/msg_types.h	8;"	d
+msg_TYPES_H	thrift_return/gen-cpp/msg_types.h	8;"	d
+myClientStart	zooclient.cpp	/^int myClientStart()$/;"	f
+my_data_completion	zooclient.cpp	/^void my_data_completion(int rc, const char *value, int value_len,const struct Stat *stat, const void *data) $/;"	f
+my_find_last_of	test.cpp	/^string my_find_last_of(string mystr, const char * str, int num)$/;"	f
+my_leader_state_watcher	zooclient.cpp	/^void my_leader_state_watcher(zhandle_t *zzh, int type, int state, const char *path,void* context)$/;"	f
+my_stat_completion	zooclient.cpp	/^void my_stat_completion(int rc, const struct Stat *stat, const void *data) {$/;"	f
+my_string_completion	zooclient.cpp	/^void my_string_completion(int rc, const char *name, const void *data) {$/;"	f
+myid	zooclient.cpp	/^clientid_t myid;$/;"	v
+n	bloom_filter.h	/^    UINT64_RC n;$/;"	m	struct:_bloom
+n	bloomfilter_back/bloom_filter.h	/^    UINT64_RC n;$/;"	m	struct:_bloom
+next	bloomfilter_back/list.h	/^	struct hlist_node *next, **pprev;$/;"	m	struct:hlist_node	typeref:struct:hlist_node::hlist_node
+next	bloomfilter_back/list.h	/^	struct list_head *next, *prev;$/;"	m	struct:list_head	typeref:struct:list_head::list_head
+next	list.h	/^	struct hlist_node *next, **pprev;$/;"	m	struct:hlist_node	typeref:struct:hlist_node::hlist_node
+next	list.h	/^	struct list_head *next, *prev;$/;"	m	struct:list_head	typeref:struct:list_head::list_head
+nnn	test.cpp	/^  static char *nnn;$/;"	m	class:Test	file:
+nnn	test.cpp	/^char *Test::nnn = NULL;$/;"	m	class:Test	file:
+node	test.cpp	/^  UrlNode *node;$/;"	m	struct:onfindpackage	file:
+octopus	BloomFilterManager.cpp	/^namespace octopus {$/;"	n	file:
+octopus	BloomFilterManager.h	/^namespace octopus {$/;"	n
+offsetof	bloomfilter_back/list.h	26;"	d
+offsetof	list.h	26;"	d
+onfind	test.cpp	/^int  onfind(const char *elem, const char *attr, struct uri *uri, void *arg) {$/;"	f
+onfindpackage	test.cpp	/^struct onfindpackage$/;"	s	file:
+operator !=	thrift/gen-cpp/Serv.h	/^  bool operator != (const Serv_send_url_list_args &rhs) const {$/;"	f	class:Serv_send_url_list_args
+operator !=	thrift/gen-cpp/Serv.h	/^  bool operator != (const Serv_send_url_list_result &rhs) const {$/;"	f	class:Serv_send_url_list_result
+operator !=	thrift/gen-cpp/msg_types.h	/^  bool operator != (const ITEM &rhs) const {$/;"	f	class:ITEM
+operator !=	thrift_return/gen-cpp/Serv.h	/^  bool operator != (const Serv_send_url_list_args &rhs) const {$/;"	f	class:Serv_send_url_list_args
+operator !=	thrift_return/gen-cpp/Serv.h	/^  bool operator != (const Serv_send_url_list_result &rhs) const {$/;"	f	class:Serv_send_url_list_result
+operator !=	thrift_return/gen-cpp/msg_types.h	/^  bool operator != (const ITEM &rhs) const {$/;"	f	class:ITEM
+operator ==	thrift/gen-cpp/Serv.h	/^  bool operator == (const Serv_send_url_list_args & rhs) const$/;"	f	class:Serv_send_url_list_args
+operator ==	thrift/gen-cpp/Serv.h	/^  bool operator == (const Serv_send_url_list_result & \/* rhs *\/) const$/;"	f	class:Serv_send_url_list_result
+operator ==	thrift/gen-cpp/msg_types.h	/^  bool operator == (const ITEM & rhs) const$/;"	f	class:ITEM
+operator ==	thrift_return/gen-cpp/Serv.h	/^  bool operator == (const Serv_send_url_list_args & rhs) const$/;"	f	class:Serv_send_url_list_args
+operator ==	thrift_return/gen-cpp/Serv.h	/^  bool operator == (const Serv_send_url_list_result & rhs) const$/;"	f	class:Serv_send_url_list_result
+operator ==	thrift_return/gen-cpp/msg_types.h	/^  bool operator == (const ITEM & rhs) const$/;"	f	class:ITEM
+oprot_	thrift/gen-cpp/Serv.h	/^  ::apache::thrift::protocol::TProtocol* oprot_;$/;"	m	class:ServClient
+oprot_	thrift_return/gen-cpp/Serv.h	/^  ::apache::thrift::protocol::TProtocol* oprot_;$/;"	m	class:ServClient
+piprot_	thrift/gen-cpp/Serv.h	/^  boost::shared_ptr< ::apache::thrift::protocol::TProtocol> piprot_;$/;"	m	class:ServClient
+piprot_	thrift_return/gen-cpp/Serv.h	/^  boost::shared_ptr< ::apache::thrift::protocol::TProtocol> piprot_;$/;"	m	class:ServClient
+poprot_	thrift/gen-cpp/Serv.h	/^  boost::shared_ptr< ::apache::thrift::protocol::TProtocol> poprot_;$/;"	m	class:ServClient
+poprot_	thrift_return/gen-cpp/Serv.h	/^  boost::shared_ptr< ::apache::thrift::protocol::TProtocol> poprot_;$/;"	m	class:ServClient
+power	bloom_filter.h	/^    int power;$/;"	m	struct:__anon1
+power	bloomfilter_back/bloom_filter.h	/^    int power;$/;"	m	struct:__anon2
+pprev	bloomfilter_back/list.h	/^	struct hlist_node *next, **pprev;$/;"	m	struct:hlist_node	typeref:struct:hlist_node::
+pprev	list.h	/^	struct hlist_node *next, **pprev;$/;"	m	struct:hlist_node	typeref:struct:hlist_node::
+prefetch	bloomfilter_back/list.h	23;"	d
+prefetch	list.h	23;"	d
+prev	bloomfilter_back/list.h	/^	struct list_head *next, *prev;$/;"	m	struct:list_head	typeref:struct:list_head::
+prev	list.h	/^	struct list_head *next, *prev;$/;"	m	struct:list_head	typeref:struct:list_head::
+processMap_	thrift/gen-cpp/Serv.h	/^  ProcessMap processMap_;$/;"	m	class:ServProcessor
+processMap_	thrift_return/gen-cpp/Serv.h	/^  ProcessMap processMap_;$/;"	m	class:ServProcessor
+process_send_url_list	thrift/gen-cpp/Serv.cpp	/^void ServProcessor::process_send_url_list(int32_t seqid, ::apache::thrift::protocol::TProtocol* iprot, ::apache::thrift::protocol::TProtocol* oprot, void* callContext)$/;"	f	class:ServProcessor
+process_send_url_list	thrift_return/gen-cpp/Serv.cpp	/^void ServProcessor::process_send_url_list(int32_t seqid, ::apache::thrift::protocol::TProtocol* iprot, ::apache::thrift::protocol::TProtocol* oprot, void* callContext)$/;"	f	class:ServProcessor
+rd_lock	bloom_filter.h	16;"	d
+rd_lock	bloomfilter_back/bloom_filter.h	16;"	d
+read	thrift/gen-cpp/Serv.cpp	/^uint32_t Serv_send_url_list_args::read(::apache::thrift::protocol::TProtocol* iprot) {$/;"	f	class:Serv_send_url_list_args
+read	thrift/gen-cpp/Serv.cpp	/^uint32_t Serv_send_url_list_presult::read(::apache::thrift::protocol::TProtocol* iprot) {$/;"	f	class:Serv_send_url_list_presult
+read	thrift/gen-cpp/Serv.cpp	/^uint32_t Serv_send_url_list_result::read(::apache::thrift::protocol::TProtocol* iprot) {$/;"	f	class:Serv_send_url_list_result
+read	thrift/gen-cpp/msg_types.cpp	/^uint32_t ITEM::read(::apache::thrift::protocol::TProtocol* iprot) {$/;"	f	class:ITEM
+read	thrift_return/gen-cpp/Serv.cpp	/^uint32_t Serv_send_url_list_args::read(::apache::thrift::protocol::TProtocol* iprot) {$/;"	f	class:Serv_send_url_list_args
+read	thrift_return/gen-cpp/Serv.cpp	/^uint32_t Serv_send_url_list_presult::read(::apache::thrift::protocol::TProtocol* iprot) {$/;"	f	class:Serv_send_url_list_presult
+read	thrift_return/gen-cpp/Serv.cpp	/^uint32_t Serv_send_url_list_result::read(::apache::thrift::protocol::TProtocol* iprot) {$/;"	f	class:Serv_send_url_list_result
+read	thrift_return/gen-cpp/msg_types.cpp	/^uint32_t ITEM::read(::apache::thrift::protocol::TProtocol* iprot) {$/;"	f	class:ITEM
+recv_send_url_list	thrift/gen-cpp/Serv.cpp	/^void ServClient::recv_send_url_list()$/;"	f	class:ServClient
+recv_send_url_list	thrift_return/gen-cpp/Serv.cpp	/^void ServClient::recv_send_url_list(std::vector<ITEM> & _return)$/;"	f	class:ServClient
+regexreplace	test.cpp	/^string  regexreplace(string  str, char * src, char *desc)$/;"	f
+releaseHandler	thrift/gen-cpp/Serv.h	/^  virtual void releaseHandler(ServIf* \/* handler *\/) {}$/;"	f	class:ServIfSingletonFactory
+releaseHandler	thrift_return/gen-cpp/Serv.h	/^  virtual void releaseHandler(ServIf* \/* handler *\/) {}$/;"	f	class:ServIfSingletonFactory
+remove	BloomFilterManager.cpp	/^    int16_t BloomFilterManager::remove(char *bloom_key) {$/;"	f	class:octopus::b_server::BloomFilterManager
+remove	BloomFilterManager.cpp	/^    int16_t BloomFilterManager::remove(uint32_t bloom_key) {$/;"	f	class:octopus::b_server::BloomFilterManager
+remove_all	BloomFilterManager.cpp	/^    int16_t BloomFilterManager::remove_all() {$/;"	f	class:octopus::b_server::BloomFilterManager
+rotl64	bloomfilter_back/murmur.cpp	/^FORCE_INLINE uint64_t rotl64 ( uint64_t x, int8_t r )$/;"	f
+rotl64	murmur.cpp	/^FORCE_INLINE uint64_t rotl64 ( uint64_t x, int8_t r )$/;"	f
+rw_unlock	bloom_filter.h	18;"	d
+rw_unlock	bloomfilter_back/bloom_filter.h	18;"	d
+send_send_url_list	thrift/gen-cpp/Serv.cpp	/^void ServClient::send_send_url_list(const std::vector<ITEM> & list_url)$/;"	f	class:ServClient
+send_send_url_list	thrift_return/gen-cpp/Serv.cpp	/^void ServClient::send_send_url_list(const std::vector<ITEM> & list_url)$/;"	f	class:ServClient
+send_url_list	thrift/gen-cpp/Serv.cpp	/^void ServClient::send_url_list(const std::vector<ITEM> & list_url)$/;"	f	class:ServClient
+send_url_list	thrift/gen-cpp/Serv.h	/^  void send_url_list(const std::vector<ITEM> & \/* list_url *\/) {$/;"	f	class:ServNull
+send_url_list	thrift/gen-cpp/Serv.h	/^  void send_url_list(const std::vector<ITEM> & list_url) {$/;"	f	class:ServMultiface
+send_url_list	thrift/gen-cpp/Serv_server.skeleton.cpp	/^  void send_url_list(const std::vector<ITEM> & bloom_vector) {$/;"	f	class:ServHandler
+send_url_list	thrift_return/gen-cpp/Serv.cpp	/^void ServClient::send_url_list(std::vector<ITEM> & _return, const std::vector<ITEM> & list_url)$/;"	f	class:ServClient
+send_url_list	thrift_return/gen-cpp/Serv.h	/^  void send_url_list(std::vector<ITEM> & \/* _return *\/, const std::vector<ITEM> & \/* list_url *\/) {$/;"	f	class:ServNull
+send_url_list	thrift_return/gen-cpp/Serv.h	/^  void send_url_list(std::vector<ITEM> & _return, const std::vector<ITEM> & list_url) {$/;"	f	class:ServMultiface
+send_url_list	thrift_return/gen-cpp/Serv_server.skeleton.cpp	/^  void send_url_list(std::vector<ITEM> & _return, const std::vector<ITEM> & list_url) {$/;"	f	class:ServHandler
+set	BloomFilterManager.cpp	/^    int16_t BloomFilterManager::set(char *bloom_key, char *key) {$/;"	f	class:octopus::b_server::BloomFilterManager
+set	BloomFilterManager.cpp	/^    int16_t BloomFilterManager::set(uint32_t bloom_key, char *key) {$/;"	f	class:octopus::b_server::BloomFilterManager
+set_count	bloom_filter.h	/^    UINT64_RC set_count;$/;"	m	struct:__anon1
+set_count	bloom_filter.h	/^    UINT64_RC set_count;$/;"	m	struct:_bloom
+set_count	bloomfilter_back/bloom_filter.h	/^    UINT64_RC set_count;$/;"	m	struct:__anon2
+set_count	bloomfilter_back/bloom_filter.h	/^    UINT64_RC set_count;$/;"	m	struct:_bloom
+shutdown	BloomFilterManager.cpp	/^    int16_t BloomFilterManager::shutdown() {$/;"	f	class:octopus::b_server::BloomFilterManager
+shutdownThisThing	zooclient.cpp	/^static int shutdownThisThing=0;$/;"	v	file:
+start	BloomFilterManager.cpp	/^    int16_t BloomFilterManager::start() {$/;"	f	class:octopus::b_server::BloomFilterManager
+startTime	zooclient.cpp	/^struct timeval startTime;$/;"	v	typeref:struct:timeval
+startsWith	zooclient.cpp	/^int startsWith(const char *line, const char *prefix) {$/;"	f
+state2String	zooclient.cpp	/^static const char* state2String(int state){$/;"	f	file:
+success	thrift_return/gen-cpp/Serv.h	/^  bool success;$/;"	m	struct:_Serv_send_url_list_presult__isset
+success	thrift_return/gen-cpp/Serv.h	/^  bool success;$/;"	m	struct:_Serv_send_url_list_result__isset
+success	thrift_return/gen-cpp/Serv.h	/^  std::vector<ITEM>  success;$/;"	m	class:Serv_send_url_list_result
+success	thrift_return/gen-cpp/Serv.h	/^  std::vector<ITEM> * success;$/;"	m	class:Serv_send_url_list_presult
+swap	thrift/gen-cpp/msg_types.cpp	/^void swap(ITEM &a, ITEM &b) {$/;"	f
+swap	thrift_return/gen-cpp/msg_types.cpp	/^void swap(ITEM &a, ITEM &b) {$/;"	f
+testZookeeperDbChanged	zooclient.cpp	/^void testZookeeperDbChanged() {$/;"	f
+testZookeeperLock	zooclient.cpp	/^void testZookeeperLock() {$/;"	f
+test_bloomfilter	testbloomfilter.cpp	/^void test_bloomfilter()$/;"	f
+test_contnet	test.cpp	/^void test_contnet()$/;"	f
+test_hbase_pool	dbtest.cpp	/^  void test_hbase_pool(void) {$/;"	f
+test_inf	test.cpp	/^void test_inf()$/;"	f
+test_json_unescape	test.cpp	/^void test_json_unescape()$/;"	f
+test_map	test.cpp	/^void test_map()$/;"	f
+test_mongo_	dbtest.cpp	/^  void test_mongo_(void) {$/;"	f
+test_mongo_pool	dbtest.cpp	/^  void test_mongo_pool(void) {$/;"	f
+test_string_find_last	test.cpp	/^void test_string_find_last()$/;"	f
+test_strtok	test.cpp	/^void test_strtok()$/;"	f
+type2String	zooclient.cpp	/^static const char* type2String(int state){$/;"	f	file:
+url	thrift/gen-cpp/msg_types.h	/^  bool url;$/;"	m	struct:_ITEM__isset
+url	thrift/gen-cpp/msg_types.h	/^  std::string url;$/;"	m	class:ITEM
+url	thrift_return/gen-cpp/msg_types.h	/^  bool url;$/;"	m	struct:_ITEM__isset
+url	thrift_return/gen-cpp/msg_types.h	/^  std::string url;$/;"	m	class:ITEM
+urls	test.cpp	/^  list<UrlNode *> *urls;$/;"	m	struct:onfindpackage	file:
+verbose	zooclient.cpp	/^static int verbose = 0;$/;"	v	file:
+wait_for_shutdown	BloomFilterManager.cpp	/^    int16_t BloomFilterManager::wait_for_shutdown() {$/;"	f	class:octopus::b_server::BloomFilterManager
+watcher	zooclient.cpp	/^void watcher(zhandle_t *zzh, int type, int state, const char *path,void* context)$/;"	f
+wr_lock	bloom_filter.h	17;"	d
+wr_lock	bloomfilter_back/bloom_filter.h	17;"	d
+write	thrift/gen-cpp/Serv.cpp	/^uint32_t Serv_send_url_list_args::write(::apache::thrift::protocol::TProtocol* oprot) const {$/;"	f	class:Serv_send_url_list_args
+write	thrift/gen-cpp/Serv.cpp	/^uint32_t Serv_send_url_list_pargs::write(::apache::thrift::protocol::TProtocol* oprot) const {$/;"	f	class:Serv_send_url_list_pargs
+write	thrift/gen-cpp/Serv.cpp	/^uint32_t Serv_send_url_list_result::write(::apache::thrift::protocol::TProtocol* oprot) const {$/;"	f	class:Serv_send_url_list_result
+write	thrift/gen-cpp/msg_types.cpp	/^uint32_t ITEM::write(::apache::thrift::protocol::TProtocol* oprot) const {$/;"	f	class:ITEM
+write	thrift_return/gen-cpp/Serv.cpp	/^uint32_t Serv_send_url_list_args::write(::apache::thrift::protocol::TProtocol* oprot) const {$/;"	f	class:Serv_send_url_list_args
+write	thrift_return/gen-cpp/Serv.cpp	/^uint32_t Serv_send_url_list_pargs::write(::apache::thrift::protocol::TProtocol* oprot) const {$/;"	f	class:Serv_send_url_list_pargs
+write	thrift_return/gen-cpp/Serv.cpp	/^uint32_t Serv_send_url_list_result::write(::apache::thrift::protocol::TProtocol* oprot) const {$/;"	f	class:Serv_send_url_list_result
+write	thrift_return/gen-cpp/msg_types.cpp	/^uint32_t ITEM::write(::apache::thrift::protocol::TProtocol* oprot) const {$/;"	f	class:ITEM
+wrong_num	dbtest.cpp	/^int wrong_num = 0;$/;"	v
+~BloomFilterManager	BloomFilterManager.cpp	/^    BloomFilterManager::~BloomFilterManager() {$/;"	f	class:octopus::b_server::BloomFilterManager
+~ITEM	thrift/gen-cpp/msg_types.h	/^  virtual ~ITEM() throw() {}$/;"	f	class:ITEM
+~ITEM	thrift_return/gen-cpp/msg_types.h	/^  virtual ~ITEM() throw() {}$/;"	f	class:ITEM
+~ServIf	thrift/gen-cpp/Serv.h	/^  virtual ~ServIf() {}$/;"	f	class:ServIf
+~ServIf	thrift_return/gen-cpp/Serv.h	/^  virtual ~ServIf() {}$/;"	f	class:ServIf
+~ServIfFactory	thrift/gen-cpp/Serv.h	/^  virtual ~ServIfFactory() {}$/;"	f	class:ServIfFactory
+~ServIfFactory	thrift_return/gen-cpp/Serv.h	/^  virtual ~ServIfFactory() {}$/;"	f	class:ServIfFactory
+~ServIfSingletonFactory	thrift/gen-cpp/Serv.h	/^  virtual ~ServIfSingletonFactory() {}$/;"	f	class:ServIfSingletonFactory
+~ServIfSingletonFactory	thrift_return/gen-cpp/Serv.h	/^  virtual ~ServIfSingletonFactory() {}$/;"	f	class:ServIfSingletonFactory
+~ServMultiface	thrift/gen-cpp/Serv.h	/^  virtual ~ServMultiface() {}$/;"	f	class:ServMultiface
+~ServMultiface	thrift_return/gen-cpp/Serv.h	/^  virtual ~ServMultiface() {}$/;"	f	class:ServMultiface
+~ServNull	thrift/gen-cpp/Serv.h	/^  virtual ~ServNull() {}$/;"	f	class:ServNull
+~ServNull	thrift_return/gen-cpp/Serv.h	/^  virtual ~ServNull() {}$/;"	f	class:ServNull
+~ServProcessor	thrift/gen-cpp/Serv.h	/^  virtual ~ServProcessor() {}$/;"	f	class:ServProcessor
+~ServProcessor	thrift_return/gen-cpp/Serv.h	/^  virtual ~ServProcessor() {}$/;"	f	class:ServProcessor
+~Serv_send_url_list_args	thrift/gen-cpp/Serv.h	/^  virtual ~Serv_send_url_list_args() throw() {}$/;"	f	class:Serv_send_url_list_args
+~Serv_send_url_list_args	thrift_return/gen-cpp/Serv.h	/^  virtual ~Serv_send_url_list_args() throw() {}$/;"	f	class:Serv_send_url_list_args
+~Serv_send_url_list_pargs	thrift/gen-cpp/Serv.h	/^  virtual ~Serv_send_url_list_pargs() throw() {}$/;"	f	class:Serv_send_url_list_pargs
+~Serv_send_url_list_pargs	thrift_return/gen-cpp/Serv.h	/^  virtual ~Serv_send_url_list_pargs() throw() {}$/;"	f	class:Serv_send_url_list_pargs
+~Serv_send_url_list_presult	thrift/gen-cpp/Serv.h	/^  virtual ~Serv_send_url_list_presult() throw() {}$/;"	f	class:Serv_send_url_list_presult
+~Serv_send_url_list_presult	thrift_return/gen-cpp/Serv.h	/^  virtual ~Serv_send_url_list_presult() throw() {}$/;"	f	class:Serv_send_url_list_presult
+~Serv_send_url_list_result	thrift/gen-cpp/Serv.h	/^  virtual ~Serv_send_url_list_result() throw() {}$/;"	f	class:Serv_send_url_list_result
+~Serv_send_url_list_result	thrift_return/gen-cpp/Serv.h	/^  virtual ~Serv_send_url_list_result() throw() {}$/;"	f	class:Serv_send_url_list_result
+~Test	test.cpp	/^  ~Test() {};$/;"	f	class:Test

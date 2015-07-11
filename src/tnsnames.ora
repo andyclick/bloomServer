@@ -1,0 +1,9 @@
+qiruan =
+(DESCRIPTION =
+    (ADDRESS_LIST =
+        (ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.0.172)(PORT = 1521))
+    )
+    (CONNECT_DATA =
+        (SERVICE_NAME = fettran)
+    )
+)

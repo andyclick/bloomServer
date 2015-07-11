@@ -1,0 +1,3 @@
+#undef URLMEMCACHEDB
+#undef HTMLMEMCACHEDB
+#undef COREDUMP

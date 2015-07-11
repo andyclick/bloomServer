@@ -1,0 +1,332 @@
+2014-10-22 16:14:23:122 0x7ffff2a10840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:43
+2014-10-22 16:14:23:122 0x7ffff2a10840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:44
+2014-10-22 16:36:20:339 0x7ffff2a10840 INFO  - InfoCrawler: Begin at: 
+2014-10-22 16:36:52:055 0x7ffff2a10840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:43
+2014-10-22 16:36:52:055 0x7ffff2a10840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:44
+2014-10-22 16:36:57:952 0x7ffff2a10840 INFO  - InfoCrawler: Begin at: 
+2014-10-22 16:37:16:101 0x7ffff2a10840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:43
+2014-10-22 16:37:16:101 0x7ffff2a10840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:44
+2014-11-07 16:25:41:127 0x7f0225565840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:43
+2014-11-07 16:25:41:127 0x7f0225565840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:44
+2014-11-13 09:39:49:016 0x7f837c2ce840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:43
+2014-11-13 09:39:49:021 0x7f837c2ce840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:44
+2014-11-13 09:41:04:715 0x7f94f632b840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:43
+2014-11-13 09:41:04:716 0x7f94f632b840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:44
+2014-11-13 09:41:19:283 0x7faa6cd1d820 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:41
+2014-11-13 09:41:19:283 0x7faa6cd1d820 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:42
+2014-11-13 09:41:19:283 0x7faa6cd1d820 INFO  - InfoCrawler: Begin at: 
+2014-11-13 09:42:36:597 0x7f38f19c6820 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:41
+2014-11-13 09:42:36:597 0x7f38f19c6820 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:42
+2014-11-13 09:42:36:597 0x7f38f19c6820 INFO  - InfoCrawler: Begin at: 
+2014-11-13 09:42:53:044 0x7fcc81364820 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:41
+2014-11-13 09:42:53:045 0x7fcc81364820 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:42
+2014-11-13 09:42:53:045 0x7fcc81364820 INFO  - InfoCrawler: Begin at: 
+2014-11-13 09:47:52:746 0x7fe910fda840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:43
+2014-11-13 09:47:52:746 0x7fe910fda840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:44
+2014-11-13 09:48:19:976 0x7fef6361e840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:43
+2014-11-13 09:48:19:976 0x7fef6361e840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:44
+2014-11-13 09:48:47:274 0x7f109e17b820 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:41
+2014-11-13 09:48:47:274 0x7f109e17b820 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:42
+2014-11-13 09:48:47:274 0x7f109e17b820 INFO  - InfoCrawler: Begin at: 
+2014-11-13 09:58:25:434 0x7f8244e34840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:43
+2014-11-13 09:58:25:434 0x7f8244e34840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:44
+2014-11-13 10:06:19:716 0x7f0b1a2e9820 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:41
+2014-11-13 10:06:19:716 0x7f0b1a2e9820 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:42
+2014-11-13 10:06:19:717 0x7f0b1a2e9820 INFO  - InfoCrawler: Begin at: 
+2014-11-18 10:36:07:049 0x7ffff37f0840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2014-11-18 10:36:07:049 0x7ffff37f0840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2014-11-18 10:36:07:050 0x7ffff37f0840 INFO  - InfoCrawler: Begin at: 
+2014-11-18 10:36:42:320 0x7ffff37f0840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2014-11-18 10:36:42:320 0x7ffff37f0840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2014-11-18 10:36:42:320 0x7ffff37f0840 INFO  - InfoCrawler: Begin at: 
+2014-11-18 10:39:03:070 0x7ffff37f0840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2014-11-18 10:39:03:070 0x7ffff37f0840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2014-11-18 10:39:03:070 0x7ffff37f0840 INFO  - InfoCrawler: Begin at: 
+2014-11-18 10:44:18:482 0x7ffff37f0840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2014-11-18 10:44:18:482 0x7ffff37f0840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2014-11-18 10:44:18:482 0x7ffff37f0840 INFO  - InfoCrawler: Begin at: 
+2015-03-23 11:33:45:213 0x7fb815848840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-23 11:33:45:218 0x7fb815848840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-23 11:33:45:221 0x7fb815848840 INFO  - InfoCrawler: Begin at: 
+2015-03-23 15:10:52:307 0x7f9498830840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-23 15:10:52:307 0x7f9498830840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-23 15:10:52:307 0x7f9498830840 INFO  - InfoCrawler: Begin at: 
+2015-03-23 15:14:19:637 0x7fd622d87840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-23 15:14:19:638 0x7fd622d87840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-23 15:14:19:638 0x7fd622d87840 INFO  - InfoCrawler: Begin at: 
+2015-03-23 15:18:30:009 0x7f92f300b840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-23 15:18:30:009 0x7f92f300b840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-23 15:18:30:009 0x7f92f300b840 INFO  - InfoCrawler: Begin at: 
+2015-03-23 16:23:02:468 0x7fb8b9271840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-23 16:23:02:468 0x7fb8b9271840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-23 16:23:02:468 0x7fb8b9271840 INFO  - InfoCrawler: Begin at: 
+2015-03-24 11:20:18:640 0x7faaf6b86840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-24 11:20:18:645 0x7faaf6b86840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-24 11:20:18:648 0x7faaf6b86840 INFO  - InfoCrawler: Begin at: 
+2015-03-24 14:27:31:277 0x7f9a096f4840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-24 14:27:31:277 0x7f9a096f4840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-24 14:27:31:277 0x7f9a096f4840 INFO  - InfoCrawler: Begin at: 
+2015-03-24 14:37:27:141 0x7f5113150840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-24 14:37:27:142 0x7f5113150840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-24 14:37:27:142 0x7f5113150840 INFO  - InfoCrawler: Begin at: 
+2015-03-24 14:50:04:831 0x7f651d5ad840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-24 14:50:04:831 0x7f651d5ad840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-24 14:50:04:831 0x7f651d5ad840 INFO  - InfoCrawler: Begin at: 
+2015-03-24 16:00:36:317 0x7f351016c840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-24 16:00:36:317 0x7f351016c840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-24 16:00:36:317 0x7f351016c840 INFO  - InfoCrawler: Begin at: 
+2015-03-25 15:01:04:165 0x7f0c57af4840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-25 15:01:04:165 0x7f0c57af4840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-25 15:01:04:165 0x7f0c57af4840 INFO  - InfoCrawler: Begin at: 
+2015-03-25 17:07:06:032 0x7f30513b0840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-25 17:07:06:032 0x7f30513b0840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-25 17:07:06:032 0x7f30513b0840 INFO  - InfoCrawler: Begin at: 
+2015-03-25 18:09:49:935 0x7fe18f0a8840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-25 18:09:49:935 0x7fe18f0a8840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-25 18:09:49:935 0x7fe18f0a8840 INFO  - InfoCrawler: Begin at: 
+2015-03-25 20:15:35:434 0x7f4f58ba2840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-25 20:15:35:441 0x7f4f58ba2840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-25 20:15:35:445 0x7f4f58ba2840 INFO  - InfoCrawler: Begin at: 
+2015-03-25 23:54:43:611 0x7ffbdd706840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-25 23:54:43:611 0x7ffbdd706840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-25 23:54:43:611 0x7ffbdd706840 INFO  - InfoCrawler: Begin at: 
+2015-03-26 14:04:20:900 0x7fc5604a3840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-26 14:04:20:900 0x7fc5604a3840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-26 14:04:20:900 0x7fc5604a3840 INFO  - InfoCrawler: Begin at: 
+2015-03-26 15:28:10:670 0x7fb254035840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-26 15:28:10:671 0x7fb254035840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-26 15:28:10:671 0x7fb254035840 INFO  - InfoCrawler: Begin at: 
+2015-03-26 15:49:02:447 0x7fd2e0482840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-26 15:49:02:447 0x7fd2e0482840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-26 15:49:02:447 0x7fd2e0482840 INFO  - InfoCrawler: Begin at: 
+2015-03-26 16:07:35:155 0x7fa698c60840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-26 16:07:35:155 0x7fa698c60840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-26 16:07:35:155 0x7fa698c60840 INFO  - InfoCrawler: Begin at: 
+2015-03-26 18:00:16:159 0x7f8c340a4840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-26 18:00:16:159 0x7f8c340a4840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-26 18:00:16:159 0x7f8c340a4840 INFO  - InfoCrawler: Begin at: 
+2015-03-26 18:17:46:650 0x7fa528022840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-26 18:17:46:650 0x7fa528022840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-26 18:17:46:650 0x7fa528022840 INFO  - InfoCrawler: Begin at: 
+2015-03-26 18:20:23:835 0x7fa88eeb2840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-26 18:20:23:835 0x7fa88eeb2840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-26 18:20:23:835 0x7fa88eeb2840 INFO  - InfoCrawler: Begin at: 
+2015-03-27 09:48:03:202 0x7f4be5029840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-27 09:48:03:202 0x7f4be5029840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-27 09:48:03:202 0x7f4be5029840 INFO  - InfoCrawler: Begin at: 
+2015-03-27 14:06:38:003 0x7fafcffb6840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-27 14:06:38:003 0x7fafcffb6840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-27 14:06:38:003 0x7fafcffb6840 INFO  - InfoCrawler: Begin at: 
+2015-03-27 14:22:57:046 0x7ff2b48b3840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-27 14:22:57:046 0x7ff2b48b3840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-27 14:22:57:046 0x7ff2b48b3840 INFO  - InfoCrawler: Begin at: 
+2015-03-27 14:30:46:073 0x7fe8adb0b840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-27 14:30:46:073 0x7fe8adb0b840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-27 14:30:46:073 0x7fe8adb0b840 INFO  - InfoCrawler: Begin at: 
+2015-03-27 14:46:02:518 0x7f74bf1ef840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-27 14:46:02:518 0x7f74bf1ef840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-27 14:46:02:518 0x7f74bf1ef840 INFO  - InfoCrawler: Begin at: 
+2015-03-27 14:51:21:705 0x7f97ab615840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-27 14:51:21:705 0x7f97ab615840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-27 14:51:21:705 0x7f97ab615840 INFO  - InfoCrawler: Begin at: 
+2015-03-27 15:25:20:676 0x7fb949fb7840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-27 15:25:20:681 0x7fb949fb7840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-27 15:25:20:687 0x7fb949fb7840 INFO  - InfoCrawler: Begin at: 
+2015-03-27 15:38:44:436 0x7f40e1917840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-27 15:38:44:441 0x7f40e1917840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-27 15:38:44:450 0x7f40e1917840 INFO  - InfoCrawler: Begin at: 
+2015-03-27 16:27:54:489 0x7f0419e2c840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-27 16:27:54:489 0x7f0419e2c840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-27 16:27:54:489 0x7f0419e2c840 INFO  - InfoCrawler: Begin at: 
+2015-03-27 17:12:48:146 0x7f193d28d840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-27 17:12:48:146 0x7f193d28d840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-27 17:12:48:146 0x7f193d28d840 INFO  - InfoCrawler: Begin at: 
+2015-03-27 17:25:19:024 0x7f19dbfb0840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-27 17:25:19:024 0x7f19dbfb0840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-27 17:25:19:024 0x7f19dbfb0840 INFO  - InfoCrawler: Begin at: 
+2015-03-27 17:44:12:366 0x7ffc49171840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-27 17:44:12:366 0x7ffc49171840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-27 17:44:12:366 0x7ffc49171840 INFO  - InfoCrawler: Begin at: 
+2015-03-28 19:09:35:899 0x7fb50f675840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-28 19:09:35:903 0x7fb50f675840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-28 19:09:35:906 0x7fb50f675840 INFO  - InfoCrawler: Begin at: 
+2015-03-28 20:06:04:269 0x7f01f70b1840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-28 20:06:04:269 0x7f01f70b1840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-28 20:06:04:269 0x7f01f70b1840 INFO  - InfoCrawler: Begin at: 
+2015-03-28 20:31:14:523 0x7fdc525f5840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-28 20:31:14:523 0x7fdc525f5840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-28 20:31:14:523 0x7fdc525f5840 INFO  - InfoCrawler: Begin at: 
+2015-03-30 09:28:53:922 0x7f3586382840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-30 09:28:53:922 0x7f3586382840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-30 09:28:53:922 0x7f3586382840 INFO  - InfoCrawler: Begin at: 
+2015-03-30 09:35:23:314 0x7f7b4c804840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-30 09:35:23:314 0x7f7b4c804840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-30 09:35:23:314 0x7f7b4c804840 INFO  - InfoCrawler: Begin at: 
+2015-03-30 15:39:22:934 0x7f11e8d85840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-30 15:39:22:941 0x7f11e8d85840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-30 15:39:22:948 0x7f11e8d85840 INFO  - InfoCrawler: Begin at: 
+2015-03-30 15:52:12:593 0x7ff67784e840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-30 15:52:12:593 0x7ff67784e840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-30 15:52:12:593 0x7ff67784e840 INFO  - InfoCrawler: Begin at: 
+2015-03-31 14:11:27:611 0x7f9f5fe6a840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-31 14:11:27:612 0x7f9f5fe6a840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-31 14:11:27:612 0x7f9f5fe6a840 INFO  - InfoCrawler: Begin at: 
+2015-03-31 15:57:55:817 0x7f351f0f4840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-31 15:57:55:817 0x7f351f0f4840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-31 15:57:55:817 0x7f351f0f4840 INFO  - InfoCrawler: Begin at: 
+2015-03-31 17:37:46:243 0x7fc088704840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-03-31 17:37:46:243 0x7fc088704840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-03-31 17:37:46:243 0x7fc088704840 INFO  - InfoCrawler: Begin at: 
+2015-04-02 10:07:57:961 0x7f27295af840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-04-02 10:07:57:967 0x7f27295af840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-04-02 10:07:57:974 0x7f27295af840 INFO  - InfoCrawler: Begin at: 
+2015-04-02 10:52:51:408 0x7f607a1fc840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-04-02 10:52:51:408 0x7f607a1fc840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-04-02 10:52:51:408 0x7f607a1fc840 INFO  - InfoCrawler: Begin at: 
+2015-04-02 11:12:31:778 0x7f4494b72840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-04-02 11:12:31:779 0x7f4494b72840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-04-02 11:12:31:779 0x7f4494b72840 INFO  - InfoCrawler: Begin at: 
+2015-04-02 15:26:24:303 0x7f278864c840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-04-02 15:26:24:303 0x7f278864c840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-04-02 15:26:24:303 0x7f278864c840 INFO  - InfoCrawler: Begin at: 
+2015-04-02 15:36:43:161 0x7f9c036f4840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-04-02 15:36:43:161 0x7f9c036f4840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-04-02 15:36:43:161 0x7f9c036f4840 INFO  - InfoCrawler: Begin at: 
+2015-04-30 10:14:17:538 0x7f62ed369840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-04-30 10:14:17:543 0x7f62ed369840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-04-30 10:14:17:548 0x7f62ed369840 INFO  - InfoCrawler: Begin at: 
+2015-05-05 19:54:09:069 0x7f4ac9e01840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-05 19:54:09:075 0x7f4ac9e01840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-05 19:54:09:079 0x7f4ac9e01840 INFO  - InfoCrawler: Begin at: 
+2015-05-05 20:45:07:215 0x7f93b7c0d840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-05 20:45:07:215 0x7f93b7c0d840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-05 20:45:07:215 0x7f93b7c0d840 INFO  - InfoCrawler: Begin at: 
+2015-05-06 10:43:57:932 0x7f243a43b840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-06 10:43:57:938 0x7f243a43b840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-06 10:43:57:943 0x7f243a43b840 INFO  - InfoCrawler: Begin at: 
+2015-05-06 11:28:15:133 0x7f8501f3f840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-06 11:28:15:133 0x7f8501f3f840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-06 11:28:15:133 0x7f8501f3f840 INFO  - InfoCrawler: Begin at: 
+2015-05-06 15:34:10:859 0x7fca3ef7a840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-06 15:34:10:864 0x7fca3ef7a840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-06 15:34:10:864 0x7fca3ef7a840 INFO  - InfoCrawler: Begin at: 
+2015-05-06 16:37:18:866 0x7f4b98d67840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-06 16:37:18:871 0x7f4b98d67840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-06 16:37:18:871 0x7f4b98d67840 INFO  - InfoCrawler: Begin at: 
+2015-05-06 18:04:12:033 0x7f497186d840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-06 18:04:12:038 0x7f497186d840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-06 18:04:12:038 0x7f497186d840 INFO  - InfoCrawler: Begin at: 
+2015-05-06 18:54:34:946 0x7f03a5478840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-06 18:54:34:950 0x7f03a5478840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-06 18:54:34:955 0x7f03a5478840 INFO  - InfoCrawler: Begin at: 
+2015-05-08 14:36:08:643 0x7fec5f16e840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-08 14:36:08:657 0x7fec5f16e840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-08 14:36:08:662 0x7fec5f16e840 INFO  - InfoCrawler: Begin at: 
+2015-05-08 19:34:19:850 0x7f6d5baff840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-08 19:34:19:850 0x7f6d5baff840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-08 19:34:19:850 0x7f6d5baff840 INFO  - InfoCrawler: Begin at: 
+2015-05-09 16:16:35:088 0x7f4053f24840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-09 16:16:35:089 0x7f4053f24840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-09 16:16:35:089 0x7f4053f24840 INFO  - InfoCrawler: Begin at: 
+2015-05-09 18:53:35:072 0x7fef4667a840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-09 18:53:35:073 0x7fef4667a840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-09 18:53:35:073 0x7fef4667a840 INFO  - InfoCrawler: Begin at: 
+2015-05-09 18:59:04:331 0x7fea2df81840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-09 18:59:04:331 0x7fea2df81840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-09 18:59:04:331 0x7fea2df81840 INFO  - InfoCrawler: Begin at: 
+2015-05-09 19:00:49:277 0x7fae91f91840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-09 19:00:49:278 0x7fae91f91840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-09 19:00:49:278 0x7fae91f91840 INFO  - InfoCrawler: Begin at: 
+2015-05-09 19:01:21:330 0x7f51913d6840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-09 19:01:21:330 0x7f51913d6840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-09 19:01:21:330 0x7f51913d6840 INFO  - InfoCrawler: Begin at: 
+2015-05-13 14:03:17:667 0x7f6b3e6b3840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-13 14:03:17:668 0x7f6b3e6b3840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-13 14:03:17:676 0x7f6b3e6b3840 INFO  - InfoCrawler: Begin at: 
+2015-05-13 14:06:37:302 0x7f81edb94840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-13 14:06:37:302 0x7f81edb94840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-13 14:06:37:302 0x7f81edb94840 INFO  - InfoCrawler: Begin at: 
+2015-05-13 17:16:16:970 0x7fed9d622840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-13 17:16:16:970 0x7fed9d622840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-13 17:16:16:970 0x7fed9d622840 INFO  - InfoCrawler: Begin at: 
+2015-05-13 17:19:22:374 0x7f2ac01a2840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-13 17:19:22:374 0x7f2ac01a2840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-13 17:19:22:374 0x7f2ac01a2840 INFO  - InfoCrawler: Begin at: 
+2015-05-13 17:22:26:084 0x7f38eb868840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-13 17:22:26:084 0x7f38eb868840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-13 17:22:26:084 0x7f38eb868840 INFO  - InfoCrawler: Begin at: 
+2015-05-13 17:28:25:442 0x7ffe320ca840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-13 17:28:25:443 0x7ffe320ca840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-13 17:28:25:443 0x7ffe320ca840 INFO  - InfoCrawler: Begin at: 
+2015-05-13 18:02:39:724 0x7f8ec7ec0840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-13 18:02:39:724 0x7f8ec7ec0840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-13 18:02:39:724 0x7f8ec7ec0840 INFO  - InfoCrawler: Begin at: 
+2015-05-14 14:52:26:124 0x7f78743c6840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-14 14:52:26:124 0x7f78743c6840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-14 14:52:26:124 0x7f78743c6840 INFO  - InfoCrawler: Begin at: 
+2015-05-14 15:08:07:196 0x7f34f043b840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-14 15:08:07:196 0x7f34f043b840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-14 15:08:07:196 0x7f34f043b840 INFO  - InfoCrawler: Begin at: 
+2015-05-14 15:26:37:038 0x7f25a43e7840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-14 15:26:37:039 0x7f25a43e7840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-14 15:26:37:039 0x7f25a43e7840 INFO  - InfoCrawler: Begin at: 
+2015-05-14 15:56:28:188 0x7fd611a9f840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-14 15:56:28:188 0x7fd611a9f840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-14 15:56:28:188 0x7fd611a9f840 INFO  - InfoCrawler: Begin at: 
+2015-05-14 16:20:28:487 0x7f37e6211840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-14 16:20:28:487 0x7f37e6211840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-14 16:20:28:487 0x7f37e6211840 INFO  - InfoCrawler: Begin at: 
+2015-05-25 11:54:22:654 0x7fa670da0840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-25 11:54:22:654 0x7fa670da0840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-25 11:54:22:654 0x7fa670da0840 INFO  - InfoCrawler: Begin at: 
+2015-05-25 13:55:38:851 0x7f1156e95840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-05-25 13:55:38:851 0x7f1156e95840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-05-25 13:55:38:851 0x7f1156e95840 INFO  - InfoCrawler: Begin at: 
+2015-06-10 15:32:32:496 0x7f9a4e499840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-06-10 15:32:32:507 0x7f9a4e499840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-06-10 15:32:32:516 0x7f9a4e499840 INFO  - InfoCrawler: Begin at: 
+2015-07-02 16:15:01:814 0x7f8807d78840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-07-02 16:15:01:824 0x7f8807d78840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-07-02 16:15:01:833 0x7f8807d78840 INFO  - InfoCrawler: Begin at: 
+2015-07-02 16:15:39:585 0x7fa161b89840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-07-02 16:15:39:585 0x7fa161b89840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-07-02 16:15:39:585 0x7fa161b89840 INFO  - InfoCrawler: Begin at: 
+2015-07-02 16:18:46:093 0x7f1cde970840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-07-02 16:18:46:093 0x7f1cde970840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-07-02 16:18:46:093 0x7f1cde970840 INFO  - InfoCrawler: Begin at: 
+2015-07-02 16:20:13:745 0x7fac0e632840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-07-02 16:20:13:745 0x7fac0e632840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-07-02 16:20:13:745 0x7fac0e632840 INFO  - InfoCrawler: Begin at: 
+2015-07-02 16:21:01:363 0x7f96905e4840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-07-02 16:21:01:363 0x7f96905e4840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-07-02 16:21:01:364 0x7f96905e4840 INFO  - InfoCrawler: Begin at: 
+2015-07-08 11:24:15:764 0x7f42dddc8840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-07-08 11:24:15:764 0x7f42dddc8840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-07-08 11:24:15:764 0x7f42dddc8840 INFO  - InfoCrawler: Begin at: 
+2015-07-08 11:24:59:450 0x7fddd4379840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-07-08 11:24:59:450 0x7fddd4379840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-07-08 11:24:59:450 0x7fddd4379840 INFO  - InfoCrawler: Begin at: 
+2015-07-08 11:25:00:508 0x7f8a5aefc840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-07-08 11:25:00:508 0x7f8a5aefc840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-07-08 11:25:00:508 0x7f8a5aefc840 INFO  - InfoCrawler: Begin at: 
+2015-07-08 11:25:01:986 0x7f2f6f43f840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-07-08 11:25:01:987 0x7f2f6f43f840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-07-08 11:25:01:987 0x7f2f6f43f840 INFO  - InfoCrawler: Begin at: 
+2015-07-08 11:25:09:137 0x7ffff3d85840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-07-08 11:25:09:137 0x7ffff3d85840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-07-08 11:25:09:137 0x7ffff3d85840 INFO  - InfoCrawler: Begin at: 
+2015-07-08 11:27:48:613 0x7fa15b00a840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-07-08 11:27:48:613 0x7fa15b00a840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-07-08 11:27:48:613 0x7fa15b00a840 INFO  - InfoCrawler: Begin at: 
+2015-07-08 11:27:55:937 0x7ffff3d85840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-07-08 11:27:55:937 0x7ffff3d85840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-07-08 11:27:55:937 0x7ffff3d85840 INFO  - InfoCrawler: Begin at: 
+2015-07-08 11:28:22:073 0x7ffff3d85840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-07-08 11:28:22:073 0x7ffff3d85840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-07-08 11:28:22:073 0x7ffff3d85840 INFO  - InfoCrawler: Begin at: 
+2015-07-08 11:31:02:093 0x7f05c0be1840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-07-08 11:31:02:093 0x7f05c0be1840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-07-08 11:31:02:093 0x7f05c0be1840 INFO  - InfoCrawler: Begin at: 
+2015-07-08 11:31:54:723 0x7fce04c95840 INFO  - initialize info log success - InfoCrawler.cpp:InfoCrawler:44
+2015-07-08 11:31:54:723 0x7fce04c95840 INFO  - initialize important log success - InfoCrawler.cpp:InfoCrawler:45
+2015-07-08 11:31:54:723 0x7fce04c95840 INFO  - InfoCrawler: Begin at: 

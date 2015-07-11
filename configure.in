@@ -1,0 +1,80 @@
+#                                               -*- Autoconf -*-
+# Process this file with autoconf to produce a configure script.
+
+AC_PREREQ(2.57)
+AC_INIT(FULL-PACKAGE-NAME, VERSION, BUG-REPORT-ADDRESS)
+AC_CONFIG_SRCDIR([src/main.cpp])
+AM_CONFIG_HEADER(config.h)
+AM_INIT_AUTOMAKE(spider1,1.0.0.1)
+AC_ARG_ENABLE(COREDUMP, [ --enable-COREDUMP ],,enable_COREDUMP=yes)
+if test "$enable_COREDUMP" = yes ; then
+    echo "COREDUMP is here!"
+    AC_DEFINE(COREDUMP)
+#    AC_DEFINE_UNQUOTED(COREDUMP)
+else
+    echo "COREDUMP isn't here!"
+fi
+AC_ARG_ENABLE(URLMEMCACHEDB, [ --enable-URLMEMCACHEDB],,enable_URLMEMCACHEDB=yes)
+if test "$enable_URLMEMCACHEDB" = yes ; then
+    echo "URL MEMCACHEDB is here!"
+    AC_DEFINE(URLMEMCACHEDB)
+else
+    echo "URL MEMCACHEDB isn't here!"
+fi
+#AC_ARG_ENABLE(HTMLMEMCACHEDB, [ --enable-HTMLMEMCACHEDB],,enable_HTMLMEMCACHEDB=yes)
+#if test "$enable_HTMLMEMCACHEDB" = yes ; then
+#    echo "HTML MEMCACHEDB is here!"
+#    AC_DEFINE(HTMLMEMCACHEDB)
+#else
+#    echo "HTML MEMCACHEDB isn't here!"
+#fi
+# Checks for programs.
+AC_PROG_CXX(-g)
+AC_PROG_CC
+AC_PROG_CPP
+AM_PROG_LEX
+AC_PROG_YACC
+AC_PROG_LIBTOOL
+AC_PROG_INSTALL
+#AC_DECL_YYTEXT
+
+# Checks for libraries.
+AC_CHECK_LIB([pthread], [pthread_rwlock_init])
+AC_CHECK_LIB(socket, socket)
+CHECK_ZLIB
+#AC_PROG_RANLIB
+
+# Checks for header files.
+AC_HEADER_STDBOOL
+AC_HEADER_TIME
+AC_HEADER_STDC
+AC_CHECK_HEADERS([stdlib.h])
+AC_CHECK_HEADERS(sys/select.h stdarg.h dirent.h locale.h ndir.h sys/dir.h semaphore.h)
+AC_CHECK_FUNCS(select)
+
+# Checks for typedefs, structures, and compiler characteristics.
+AC_CHECK_SIZEOF(unsigned long long int, 8)
+AC_CHECK_SIZEOF(unsigned long int, 4)
+AC_CHECK_SIZEOF(unsigned int, 4)
+AC_CHECK_SIZEOF(unsigned short int, 2)
+AC_CHECK_SIZEOF(unsigned char, 1)
+AC_DEFINE([HAVE_INT_8_16_32], [1], [whether int8, int16 and int32 types exist])
+AC_DEFINE([__MY_STRICT_ANSI__], [], [nonono])
+AC_DEFINE([SIZEOF_INT], [4], [size of int])
+AC_DEFINE([SIZEOF_LONG], [4], [size of long])
+AC_DEFINE([LOG_TIMES], [], [log time])
+
+#AC_DEFINE([__i386__], [], [cup type])
+AC_DEFINE([__kdb_bin_], [], [use binary db])
+#AC_DEFINE([VOIDTYPE], [], [])
+
+# Checks for library functions.
+AC_PROG_LIBTOOL
+
+AC_CONFIG_FILES([Makefile
+                src/Makefile
+                src/module/Makefile
+                src/common/Makefile
+                src/tools/Makefile
+                ])
+AC_OUTPUT

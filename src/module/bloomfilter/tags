@@ -1,0 +1,247 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BIG_CONSTANT	murmur.cpp	21;"	d	file:
+BITSPERWORD	bloom_filter.cpp	8;"	d	file:
+BLOOF_FILTER_KEY_NOT_EXIST	common_define.h	32;"	d
+BLOOF_FILTER_SUBKEY_EXIST	common_define.h	33;"	d
+BLOOF_FILTER_SUBKEY_NOT_EXIST	common_define.h	34;"	d
+CHECK_KEY_EXIST	common_define.h	35;"	d
+CONF_B_SENDCONTENT	common_define.h	93;"	d
+CONF_B_SERVER_BLOOMFILTER	common_define.h	95;"	d
+CONF_B_SERVER_ZOOKEEPER	common_define.h	94;"	d
+CONF_DEV_NAME	common_define.h	91;"	d
+CONF_IP_ADDR	common_define.h	90;"	d
+CONF_LISTEN_THREAD_NUM	common_define.h	92;"	d
+CONF_PORT	common_define.h	88;"	d
+CONF_SN_BSERVER	common_define.h	85;"	d
+CONF_SN_DSERVER	common_define.h	86;"	d
+CONF_SN_HEARTBEAT	common_define.h	83;"	d
+CONF_SN_HYPERTABLE	common_define.h	82;"	d
+CONF_SN_MYSQL	common_define.h	81;"	d
+CONF_SN_PUBLIC	common_define.h	80;"	d
+CONF_SN_TSERVER	common_define.h	84;"	d
+CONF_THREAD_COUNT	common_define.h	89;"	d
+CONF_T_SERVER_ID	common_define.h	96;"	d
+CONF_WORK_DIR	common_define.h	87;"	d
+CONTENT_PAGE_TBL_LOCK_NAME	common_define.h	147;"	d
+DEBUG	debug.h	2;"	d
+DEBUG	debug.h	4;"	d
+ERROR_MALLOC_FAIL	bloom_filter.h	9;"	d
+FETCH_TBL_LOCK_NAME	common_define.h	146;"	d
+FORCE_INLINE	bloom_filter.cpp	20;"	d	file:
+FORCE_INLINE	murmur.cpp	12;"	d	file:
+GET_CUSTOM_DATA_FROM_ENTRANCE_PAGE	common_define.h	154;"	d
+GET_CUSTOM_DATA_FROM_ENTRANCE_URL	common_define.h	153;"	d
+HASH_POWER	bloom_filter.cpp	12;"	d	file:
+HLIST_HEAD	list.h	577;"	d
+HLIST_HEAD_INIT	list.h	576;"	d
+HTTP_FETCH_OK	common_define.h	38;"	d
+HTTP_FETCH_RET_ERROR	common_define.h	40;"	d
+HTTP_FETCH_RET_ERROR_UNACCEPTED	common_define.h	42;"	d
+HTTP_FETCH_RET_REDIRECT	common_define.h	39;"	d
+HTTP_FETCH_STATUS_ERROR	common_define.h	41;"	d
+HTTP_REQUEST_TYPE_GET	common_define.h	115;"	d
+HTTP_REQUEST_TYPE_POST	common_define.h	116;"	d
+INIT_HLIST_HEAD	list.h	578;"	d
+INIT_HLIST_NODE	list.h	/^static inline void INIT_HLIST_NODE(struct hlist_node *h)$/;"	f
+INIT_LIST_HEAD	list.h	/^static inline void INIT_LIST_HEAD(struct list_head *list)$/;"	f
+INSERT_URL_FORCED	common_define.h	131;"	d
+INSERT_URL_UNFORCED	common_define.h	132;"	d
+IPStruct	common_define.h	/^    class IPStruct {$/;"	c	namespace:octopus::common
+IS_MAIN_MAIN_SERVER	common_define.h	50;"	d
+IS_MAIN_NOT_MAIN_SERVER	common_define.h	52;"	d
+IS_MAIN_READY_TO_SERVER	common_define.h	51;"	d
+IS_MAIN_UNDETERMINED	common_define.h	53;"	d
+LIST_HEAD	list.h	53;"	d
+LIST_HEAD_INIT	list.h	51;"	d
+LIST_POISON1	list.h	20;"	d
+LIST_POISON2	list.h	21;"	d
+MASK	bloom_filter.cpp	10;"	d	file:
+MAX_HOST_LEN	common_define.h	112;"	d
+MAX_KEY_LEN	bloom_filter.h	13;"	d
+MAX_URL_LEN	common_define.h	111;"	d
+MY_FALSE	common_define.h	150;"	d
+MY_STATE_NOT_OK	common_define.h	30;"	d
+MY_STATE_OK	common_define.h	29;"	d
+MY_TRUE	common_define.h	149;"	d
+MurmurHash3_x64_128_for_bloomfilter	murmur.cpp	/^void MurmurHash3_x64_128_for_bloomfilter ( const void * key, const int len,$/;"	f
+OK	bloom_filter.h	10;"	d
+PRIORITY_FETCH_TBL_LOCK_NAME	common_define.h	145;"	d
+ROTL64	murmur.cpp	19;"	d	file:
+RUNNING_STATE_NEED_TO_SHUTDOWN	common_define.h	63;"	d
+RUNNING_STATE_RUNNING	common_define.h	62;"	d
+RUNNING_STATE_SHUTDOWN	common_define.h	64;"	d
+SALT_CONSTANT	bloom_filter.cpp	13;"	d	file:
+SHIFT	bloom_filter.cpp	9;"	d	file:
+SOURCE_STATE_EFFECTIVE	common_define.h	103;"	d
+SOURCE_STATE_INVALID	common_define.h	104;"	d
+SOURCE_TABLE_NAME	common_define.h	126;"	d
+SPLIT_DB_SQL	common_define.h	123;"	d
+SPLIT_OF_COLON	common_define.h	67;"	d
+SPLIT_OF_UNDERLINE	common_define.h	68;"	d
+SYSTEM_STATE_INTERNAL_ERROR_OCCURED	common_define.h	59;"	d
+SYSTEM_STATE_PAUSE	common_define.h	58;"	d
+SYSTEM_STATE_RUNNING	common_define.h	56;"	d
+SYSTEM_STATE_SHUTDOWN	common_define.h	57;"	d
+TASK_STATE_EFFECTIVE	common_define.h	99;"	d
+TASK_STATE_INVALID	common_define.h	100;"	d
+TASK_TABLE_NAME	common_define.h	125;"	d
+UINT64_RC	bloom_filter.h	/^typedef unsigned long long UINT64_RC;$/;"	t
+URL_DUPLICATE_MODE_BY_BATCH	common_define.h	106;"	d
+URL_DUPLICATE_MODE_BY_SOURCE	common_define.h	107;"	d
+URL_DUPLICATE_MODE_BY_TASK	common_define.h	108;"	d
+URL_MODE_ENTRANCE_PAGE	common_define.h	74;"	d
+URL_MODE_FINAL_PAGE	common_define.h	72;"	d
+URL_MODE_LIST_PAGE	common_define.h	73;"	d
+URL_MODE_NEED_TO_ADD_NEW	common_define.h	77;"	d
+URL_MODE_NEED_TO_ANALYSE	common_define.h	76;"	d
+URL_MODE_NEED_TO_SAVE	common_define.h	75;"	d
+URL_MODE_NO_MODE	common_define.h	71;"	d
+URL_TO_FETCH_ALREADY_READ	common_define.h	46;"	d
+URL_TO_FETCH_ALREADY_SEND	common_define.h	47;"	d
+URL_TO_FETCH_UNREAD	common_define.h	45;"	d
+URL_TYPE_PRIORITY	common_define.h	128;"	d
+URL_TYPE_UNPRIORITY	common_define.h	129;"	d
+ZOOKEEPER_NEED_CREATE_ZNODE	common_define.h	121;"	d
+ZOOKEEPER_NONE	common_define.h	120;"	d
+_LINUX_LIST_H	list.h	2;"	d
+_MURMURHASH3_H_	murmur.h	6;"	d
+_OCTOPUS_COMMON_DEFINE_H_	common_define.h	2;"	d
+__BLOOM_FILTER_H__	bloom_filter.h	2;"	d
+__hlist_del	list.h	/^static inline void __hlist_del(struct hlist_node *n)$/;"	f
+__list_add	list.h	/^static inline void __list_add(struct list_head *new_one,$/;"	f
+__list_cut_position	list.h	/^static inline void __list_cut_position(struct list_head *list,$/;"	f
+__list_del	list.h	/^static inline void __list_del(struct list_head * prev, struct list_head * next)$/;"	f
+__list_for_each	list.h	395;"	d
+__list_splice	list.h	/^static inline void __list_splice(const struct list_head *list,$/;"	f
+_bloom	bloom_filter.h	/^typedef struct _bloom{$/;"	s
+bitmap_check	bloom_filter.cpp	/^FORCE_INLINE int  bitmap_check(int *map, UINT64_RC i)$/;"	f
+bitmap_clear	bloom_filter.cpp	/^FORCE_INLINE void bitmap_clear(int *map, UINT64_RC i) $/;"	f
+bitmap_set	bloom_filter.cpp	/^FORCE_INLINE void bitmap_set(int *map, UINT64_RC i) $/;"	f
+bloom_delete	bloom_filter.cpp	/^static void bloom_delete (bloom_t *bloom)$/;"	f	file:
+bloom_dlist_lock	bloom_filter.cpp	/^pthread_rwlock_t bloom_dlist_lock;$/;"	v
+bloom_get	bloom_filter.cpp	/^int bloom_get (bloom_t *bloom, char *key) $/;"	f
+bloom_hash_lock	bloom_filter.cpp	/^pthread_rwlock_t bloom_hash_lock;$/;"	v
+bloom_init	bloom_filter.cpp	/^bloom_t *bloom_init (char * key, UINT64_RC n, double e)$/;"	f
+bloom_set	bloom_filter.cpp	/^int bloom_set (bloom_t *bloom, char *key) $/;"	f
+bloom_status	bloom_filter.cpp	/^int bloom_status (char * key)$/;"	f
+bloom_t	bloom_filter.h	/^} bloom_t;$/;"	t	typeref:struct:_bloom
+blooms	bloom_filter.cpp	/^blooms_t *blooms = NULL;$/;"	v
+blooms_add	bloom_filter.cpp	/^int blooms_add (char *key, UINT64_RC n, double e)$/;"	f
+blooms_delete	bloom_filter.cpp	/^int blooms_delete (char *key)$/;"	f
+blooms_delete_all	bloom_filter.cpp	/^void blooms_delete_all() {$/;"	f
+blooms_get	bloom_filter.cpp	/^int blooms_get (char *key, char *subkey)$/;"	f
+blooms_init	bloom_filter.cpp	/^int blooms_init (size_t max)$/;"	f
+blooms_search	bloom_filter.cpp	/^bloom_t *blooms_search(char *key)$/;"	f
+blooms_set	bloom_filter.cpp	/^int blooms_set (char *key, char *subkey)$/;"	f
+blooms_status	bloom_filter.cpp	/^void blooms_status ()$/;"	f
+blooms_status	bloom_filter.cpp	/^void blooms_status(char *buf)$/;"	f
+blooms_t	bloom_filter.h	/^} blooms_t;$/;"	t	typeref:struct:__anon1
+bytes	bloom_filter.h	/^    size_t bytes;$/;"	m	struct:__anon1
+bytes	bloom_filter.h	/^    size_t bytes;$/;"	m	struct:_bloom
+calculate	bloom_filter.cpp	/^size_t calculate (UINT64_RC n, double e, UINT64_RC* m, int* k, double* tmp_e)$/;"	f
+common	common_define.h	/^  namespace common {$/;"	n	namespace:octopus
+container_of	list.h	30;"	d
+count	bloom_filter.h	/^    int count;$/;"	m	struct:__anon1
+dictGenHashFunction	bloom_filter.cpp	/^unsigned int dictGenHashFunction(const unsigned char *buf, int len) {$/;"	f
+e	bloom_filter.h	/^    double e;$/;"	m	struct:_bloom
+e2	bloom_filter.h	/^    double e2;$/;"	m	struct:_bloom
+first	list.h	/^	struct hlist_node *first;$/;"	m	struct:hlist_head	typeref:struct:hlist_head::hlist_node
+fmix64	murmur.cpp	/^FORCE_INLINE uint64_t fmix64(uint64_t k)$/;"	f
+get_count	bloom_filter.h	/^    UINT64_RC get_count;$/;"	m	struct:__anon1
+get_count	bloom_filter.h	/^    UINT64_RC get_count;$/;"	m	struct:_bloom
+get_miss_count	bloom_filter.h	/^    UINT64_RC get_miss_count;$/;"	m	struct:__anon1
+get_miss_count	bloom_filter.h	/^    UINT64_RC get_miss_count;$/;"	m	struct:_bloom
+getblock	murmur.cpp	23;"	d	file:
+hash_next	bloom_filter.h	/^    struct _bloom *hash_next;$/;"	m	struct:_bloom	typeref:struct:_bloom::_bloom
+hashmask	bloom_filter.cpp	16;"	d	file:
+hashsize	bloom_filter.cpp	15;"	d	file:
+hashtable	bloom_filter.h	/^    bloom_t *hashtable[0];$/;"	m	struct:__anon1
+hlist_add_after	list.h	/^static inline void hlist_add_after(struct hlist_node *n,$/;"	f
+hlist_add_before	list.h	/^static inline void hlist_add_before(struct hlist_node *n,$/;"	f
+hlist_add_head	list.h	/^static inline void hlist_add_head(struct hlist_node *n, struct hlist_head *h)$/;"	f
+hlist_del	list.h	/^static inline void hlist_del(struct hlist_node *n)$/;"	f
+hlist_del_init	list.h	/^static inline void hlist_del_init(struct hlist_node *n)$/;"	f
+hlist_empty	list.h	/^static inline int hlist_empty(const struct hlist_head *h)$/;"	f
+hlist_entry	list.h	663;"	d
+hlist_for_each	list.h	665;"	d
+hlist_for_each_entry	list.h	680;"	d
+hlist_for_each_entry_continue	list.h	692;"	d
+hlist_for_each_entry_from	list.h	704;"	d
+hlist_for_each_entry_safe	list.h	717;"	d
+hlist_for_each_safe	list.h	669;"	d
+hlist_head	list.h	/^struct hlist_head {$/;"	s
+hlist_move_list	list.h	/^static inline void hlist_move_list(struct hlist_head *old,$/;"	f
+hlist_node	list.h	/^struct hlist_node {$/;"	s
+hlist_unhashed	list.h	/^static inline int hlist_unhashed(const struct hlist_node *h)$/;"	f
+int16_t	common_define.h	/^typedef     short	       					int16_t;$/;"	t
+int32_t	common_define.h	/^typedef     int		       					int32_t;$/;"	t
+int64_t	common_define.h	/^typedef     long       						int64_t;$/;"	t
+int64_t	common_define.h	/^typedef     long long      						int64_t;$/;"	t
+ip	common_define.h	/^      std::string ip;$/;"	m	class:octopus::common::IPStruct
+k	bloom_filter.h	/^    int k;$/;"	m	struct:_bloom
+key	bloom_filter.h	/^    char key[MAX_KEY_LEN];$/;"	m	struct:_bloom
+list	bloom_filter.h	/^    struct list_head list;$/;"	m	struct:__anon1	typeref:struct:__anon1::list_head
+list	bloom_filter.h	/^    struct list_head list;$/;"	m	struct:_bloom	typeref:struct:_bloom::list_head
+list_add	list.h	/^static inline void list_add(struct list_head *new_one, struct list_head *head)$/;"	f
+list_add_tail	list.h	/^static inline void list_add_tail(struct list_head *new_one, struct list_head *head)$/;"	f
+list_cut_position	list.h	/^static inline void list_cut_position(struct list_head *list,$/;"	f
+list_del	list.h	/^static inline void list_del(struct list_head *entry)$/;"	f
+list_del_init	list.h	/^static inline void list_del_init(struct list_head *entry)$/;"	f
+list_empty	list.h	/^static inline int list_empty(const struct list_head *head)$/;"	f
+list_empty_careful	list.h	/^static inline int list_empty_careful(const struct list_head *head)$/;"	f
+list_entry	list.h	362;"	d
+list_first_entry	list.h	373;"	d
+list_for_each	list.h	381;"	d
+list_for_each_entry	list.h	434;"	d
+list_for_each_entry_continue	list.h	470;"	d
+list_for_each_entry_continue_reverse	list.h	484;"	d
+list_for_each_entry_from	list.h	497;"	d
+list_for_each_entry_reverse	list.h	445;"	d
+list_for_each_entry_safe	list.h	508;"	d
+list_for_each_entry_safe_continue	list.h	524;"	d
+list_for_each_entry_safe_from	list.h	540;"	d
+list_for_each_entry_safe_reverse	list.h	555;"	d
+list_for_each_prev	list.h	403;"	d
+list_for_each_prev_safe	list.h	423;"	d
+list_for_each_safe	list.h	413;"	d
+list_head	list.h	/^struct list_head {$/;"	s
+list_is_last	list.h	/^static inline int list_is_last(const struct list_head *list,$/;"	f
+list_is_singular	list.h	/^static inline int list_is_singular(const struct list_head *head)$/;"	f
+list_move	list.h	/^static inline void list_move(struct list_head *list, struct list_head *head)$/;"	f
+list_move_tail	list.h	/^static inline void list_move_tail(struct list_head *list,$/;"	f
+list_prepare_entry	list.h	458;"	d
+list_replace	list.h	/^static inline void list_replace(struct list_head *old,$/;"	f
+list_replace_init	list.h	/^static inline void list_replace_init(struct list_head *old,$/;"	f
+list_splice	list.h	/^static inline void list_splice(const struct list_head *list,$/;"	f
+list_splice_init	list.h	/^static inline void list_splice_init(struct list_head *list,$/;"	f
+list_splice_tail	list.h	/^static inline void list_splice_tail(struct list_head *list,$/;"	f
+list_splice_tail_init	list.h	/^static inline void list_splice_tail_init(struct list_head *list,$/;"	f
+m	bloom_filter.h	/^    UINT64_RC m;$/;"	m	struct:_bloom
+map	bloom_filter.h	/^    int map[0];$/;"	m	struct:_bloom
+max_bytes	bloom_filter.h	/^    size_t max_bytes;$/;"	m	struct:__anon1
+n	bloom_filter.h	/^    UINT64_RC n;$/;"	m	struct:_bloom
+next	list.h	/^	struct hlist_node *next, **pprev;$/;"	m	struct:hlist_node	typeref:struct:hlist_node::hlist_node
+next	list.h	/^	struct list_head *next, *prev;$/;"	m	struct:list_head	typeref:struct:list_head::list_head
+octopus	common_define.h	/^namespace octopus {$/;"	n
+offsetof	list.h	26;"	d
+port	common_define.h	/^      uint32_t port;$/;"	m	class:octopus::common::IPStruct
+power	bloom_filter.h	/^    int power;$/;"	m	struct:__anon1
+pprev	list.h	/^	struct hlist_node *next, **pprev;$/;"	m	struct:hlist_node	typeref:struct:hlist_node::
+prefetch	list.h	23;"	d
+prev	list.h	/^	struct list_head *next, *prev;$/;"	m	struct:list_head	typeref:struct:list_head::
+rd_lock	bloom_filter.h	16;"	d
+rotl64	murmur.cpp	/^FORCE_INLINE uint64_t rotl64 ( uint64_t x, int8_t r )$/;"	f
+rw_unlock	bloom_filter.h	18;"	d
+set_count	bloom_filter.h	/^    UINT64_RC set_count;$/;"	m	struct:__anon1
+set_count	bloom_filter.h	/^    UINT64_RC set_count;$/;"	m	struct:_bloom
+uint16_t	common_define.h	/^typedef     unsigned short       	uint16_t;$/;"	t
+uint32_t	common_define.h	/^typedef     unsigned int 					uint32_t;$/;"	t
+uint64_t	common_define.h	/^typedef     unsigned long       	uint64_t;$/;"	t
+uint64_t	common_define.h	/^typedef     unsigned long long      	uint64_t;$/;"	t
+uint8_t	common_define.h	/^typedef     unsigned char        	uint8_t;$/;"	t
+wr_lock	bloom_filter.h	17;"	d
